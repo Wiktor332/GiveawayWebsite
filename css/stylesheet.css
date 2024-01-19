@@ -1,0 +1,633 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@500&family=Montserrat:ital,wght@1,500&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-size: 400% 400%;
+    background-image: linear-gradient(-69deg, #35383d 0%, #35383d 25%, #35383d 51%, #15171c 100%);
+    -webkit-animation: backgroundBG 10s ease infinite;
+      animation: backgroundBG 10s ease infinite;
+}
+
+/* #35383d szary */
+/* #202329 pomiędzy*/
+/* #15171c czarny */
+/* #2a2d34 */
+
+.bodyback {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+@-webkit-keyframes backgroundBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes backgroundBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@-webkit-keyframes backgroundBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes backgroundBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.backgroundimg {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+/* #35383d szary */
+/* #202329 pomiędzy*/
+/* #15171c czarny */
+/* #2a2d34 */
+
+
+
+/* NAVBAR */
+.header {
+    /* border: 2px solid red; */
+    font-family: "Geologica", sans-serif;
+    width: 100%;
+    height: fit-content;
+    /* background-color: rgba(46, 42, 42, 0.502); */
+    background-color: rgba(75, 71, 71, 0.845);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 2%;
+    border-radius: 5px;
+  }  
+  #myInput {
+    /* border: 2px solid red; */
+    display: block;
+    width: fit-content;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px #363a43 solid;
+    box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
+    background-repeat: no-repeat;
+    font-size: 20px;
+    background: rgba(46, 42, 42, 0.8);;
+    color: white;
+    padding: 10px 2%;
+    cursor: pointer;
+  }
+  
+    /* END OF NAVBAR */
+
+
+/* CAROUSEL WRAPPER */
+
+
+h2  {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  margin-top: 50px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+
+.carousel_image {
+  margin-top: 5px;
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+  object-fit: contain;
+}
+ 
+.inner-top {
+  /* border: 2px solid green; */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  /* position: relative; */
+  height: 660px;
+  width: 100%;
+  transition: transform 250ms ease-in;
+  display: flex;
+}
+
+.carousel-item {
+  /* border: 2px solid red; */
+  display: flex;
+  box-shadow: 0 0 7px 3px grey;
+  background-color: rgba(46, 42, 42, 0.502);
+  border-radius: 15px;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 400px;
+  height: 500px;
+  animation: move 3s infinite ease-in-out, light3 3s infinite linear;
+  /* cursor: pointer; */
+}
+
+@media only screen and (max-width:1300px)  {
+  .title_head {
+    display: none;
+  }
+}
+
+@keyframes move {
+  0% {top: 0px;}
+  25% {top: 25px;}
+  /* 75% {top: 15px;} */
+  100% {top: 0px;}
+}
+
+@keyframes light3 {
+  0% {box-shadow: 0 0 7px 3px grey;}
+  75% {box-shadow: 0 0 10px 8px rgb(169, 164, 164);}
+  100% {box-shadow: 0 0 7px 3px grey;}
+}
+
+.carousel-item:hover {
+  top: -10px;
+}
+
+.title-head {
+  /* border: 2px solid red; */
+  font-size: 20px;
+}
+
+.containers {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-bottom: 80px;
+  gap: 50px;
+}
+
+.carousel-caption {
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.carousel-caption p {
+  /* border: 2px solid red; */
+  font-size: 20px;
+  color: white;
+}
+
+.carousel-caption a {
+  /* border: 2px solid red; */
+  color: white;
+  width: 100%;
+  font-weight: 600;
+  margin-top: 15px;
+  font-size: 25px;
+}
+
+
+
+.carousel-control-prev:hover {
+  border: 4px solid rgb(48, 51, 48);
+  /* background: rgb(48, 51, 48); */
+  box-shadow: 0 0 7px 3px grey;
+  border-radius: 50%;
+  left: -65px;
+  width: 50px;
+  height: 50px;
+}
+
+
+.carousel-control-next:hover {
+  border: 4px solid rgb(48, 51, 48);
+  /* background: rgb(48, 51, 48); */
+  box-shadow: 0 0 7px 3px grey;
+  border-radius: 50%;
+  right: -65px;
+  width: 50px;
+  height: 50px;
+}
+
+.carousel-indicators {
+  display: none;
+  justify-content: space-evenly;
+  /* border: 2px solid orange; */
+  height: fit-content; 
+}
+
+.carousel-indicators li{
+ /* border: 2px solid red; */
+ border-radius: 50%;
+ width: 25px;
+ height: 25px;
+ box-shadow: 0 0 7px 3px grey;
+ cursor: pointer;
+ background:rgba(75, 71, 71, 0.845);
+ animation: light3 3s infinite ease-in-out;
+}
+
+
+.carousel-indicators li:hover {
+  background: rgba(122, 118, 118, 0.696);
+}
+
+.carousel-indicators.current-slide {
+  background: rgba(0, 0, 0, 0.75);
+}
+
+/* END OF CAROUSEL WRAPPER */
+
+/* CARDS */
+.heading {
+    /* border: 2px solid red; */
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#cards {
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    /* background-color: rgba(75, 71, 71, 0.845); */
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    gap: 30px;
+}
+
+.card {
+    /* border: 2px solid yellow; */
+    background-color: rgba(46, 42, 42, 0.502);
+    width: 500px;
+    height: fit-content;
+    box-shadow: 0 0 7px 3px grey;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    /* padding:10px; */
+    margin-top: 2em;
+    margin-bottom: 2em;
+    cursor: pointer;
+    transition: top ease 0.4s ;
+}
+
+.card:hover {
+  transition: 0.6s;
+  background: #2a2d34;
+  box-shadow: 0 0 7px 10px grey;
+  top: -7px;
+}
+
+.card p {
+    /* border: 2px solid green; */
+    color: white;
+    font-weight: 550;
+    margin-top: 15px;
+}
+
+.card a {
+  /* border: 2px solid red; */
+  color: white;
+  width: 100%;
+  font-weight: 600;
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.title{
+    /* border: 2px solid red; */
+    height: 70px;
+    font-size: 25px;
+    font-weight: 550;
+    color: white;
+
+}
+
+.images {
+    width: fit-content;
+    height: fit-content;
+    z-index: -1;
+}
+
+.nav_links {
+  /* border: 2px solid green; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  padding: 10px;
+  gap: 50px;
+}
+
+/* Dropdown menu styles */
+.dropdown {
+  /* border: 2px solid red; */
+  width: fit-content;
+  border-radius: 5px;
+  font-size: 30px;
+}
+
+.dropdown * {
+  /* border: 2px solid green; */
+  box-sizing: border-box;
+}
+
+.select {
+  /* border: 2px solid red; */
+  color: white;
+  border-radius: 0.5em;
+  cursor: pointer;
+  transition: background 1s ease-in, scale 1s ease;
+}
+
+.select a{
+  text-decoration: none;
+}
+
+.select-clicked {
+  width: 100%;
+  border: 2px #26489a solid;
+  box-shadow: 0 0 0.8em #26489a;
+}
+
+.select:hover {
+  background: #323741;
+  font-size: 35px;
+}
+
+.menu {
+  /* border: 2px solid yellow; */
+  list-style: none;
+  /* padding: 0.2em 0.5em; */
+  /* background: rgba(46, 42, 42, 0.8); */
+  background-color: rgba(75, 71, 71, 0.845);
+  border: 1px #363a43 solid;
+  box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  color: white;
+  position: absolute;
+  align-items: center;
+  text-align: center;
+  top: 2.5em;
+  width:250px;
+  opacity: 0;
+  transition: 0.5s;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.menu li {
+  /* border: 2px solid yellow; */
+  padding: 0.7em 0.5em;
+  /* gap: 30px; */
+  border-radius: 0.5em;
+  cursor: pointer;
+  font-size: 20px;
+  width: 100%;
+}
+
+.menu li a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+
+.selected {
+  /* border: 2px solid green; */
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  /* border: 2px solid red; */
+  background-color: rgba(46, 42, 42, 0.8);
+}
+
+.menu-open {
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.menu-open a{
+  /* border: 2px solid red; */
+  margin-right: 20px;
+}
+
+
+@media only screen and (max-width: 900px) {
+  .dropdown {
+    /* border: 2px solid red; */
+    font-size: 15px;
+    width:fit-content;
+    height: fit-content;
+  }
+
+  .menu {
+    /* border: 2px solid red; */
+    width: fit-content;
+    height: fit-content;
+    width: 140px;
+    transform: translateX(-50%);
+    justify-content: space-evenly;    
+    margin-top: 10px;
+  }
+
+  .menu li {
+    /* border: 2px solid yellow; */
+    /* padding: 0.7em 0.5em; */
+    padding: 5px;
+    border-radius: 0.5em;
+    cursor: pointer;
+    width: 100px;
+
+  }
+  
+  .menu li a{
+    /* border: 2px solid red; */
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    margin-right: 20px;
+  }
+  
+  #myInput {
+    display: none;
+  }
+
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"] + label .description,
+input[type="checkbox"] + label .info,
+input[type="checkbox"] + label .type {
+  display: block;
+  opacity: 1; 
+  max-height: 1000px; 
+  overflow: hidden; 
+  /* transition: opacity 0.5s ease, max-height 0.5s ease;  */
+}
+
+input[type="checkbox"]:checked + label .description,
+input[type="checkbox"]:checked + label .info,
+input[type="checkbox"]:checked + label .type {
+  display: none;
+  opacity: 0;
+  max-height: 0; 
+  /* transition: opacity 0.5s ease, max-height 0.5s ease;  */
+}
+
+input[type="checkbox"] + label .instructions,
+input[type="checkbox"] + label .link {
+  display: none;
+  opacity: 0; 
+  max-height: 0; 
+  overflow: hidden; 
+  /* transition: opacity 0.5s ease, max-height 0.5s ease;  */
+}
+
+input[type="checkbox"]:checked + label .instructions,
+input[type="checkbox"]:checked + label .link {
+  display: block;
+  opacity: 1; 
+  max-height: 1000px; 
+  /* transition: opacity 0.5s ease, max-height 0.4s ease;  */
+}
+
+
+
+input[type="checkbox1"] {
+  display: none;
+}
+
+input[type="checkbox1"] + label .description,
+input[type="checkbox1"] + label .info,
+input[type="checkbox1"] + label .type {
+  display: block;
+  opacity: 1; 
+  max-height: 1000px; 
+  overflow: hidden; 
+  /* transition: opacity 0.5s ease, max-height 0.5s ease;  */
+}
+
+input[type="checkbox1"]:checked + label .description,
+input[type="checkbox1"]:checked + label .info,
+input[type="checkbox1"]:checked + label .type {
+  display: none;
+  opacity: 0;
+  max-height: 0; 
+  /* transition: opacity 0.5s ease, max-height 0.5s ease;  */
+}
+
+input[type="checkbox1"] + label .instructions,
+input[type="checkbox1"] + label .link {
+  display: none;
+  opacity: 0; 
+  max-height: 0; 
+  overflow: hidden; 
+  /* transition: opacity 0.5s ease, max-height 0.5s ease;  */
+}
+
+input[type="checkbox1"]:checked + label .instructions,
+input[type="checkbox1"]:checked + label .link {
+  display: block;
+  opacity: 1; 
+  max-height: 1000px; 
+}
+/* END OF CARDS */
+
+/* FOOTER */
+#footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(46, 42, 42, 0.502);
+  /* border: 2px solid red; */
+}
+
+.container-footer {
+  width: 100%;
+  font-family: 'Geologica';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px; /* Adjust padding as needed */
+}
+
+.container-footer h3 {
+  color: white;
+  font-size: 25px; /* Adjust size as needed */
+  margin: 0; /* Reset margin */
+}
+
+.container-footer p {
+  color: white;
+  font-size: 18px; 
+  margin: 5px 0; 
+}
+
+.container-footer a {
+  color: white;
+  /* text-decoration: none; */
+  /* Additional styling for link if needed */
+}
