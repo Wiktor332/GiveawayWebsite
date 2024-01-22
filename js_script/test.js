@@ -242,40 +242,40 @@ function handleTrackedTextContent() {
 
   switch (trackedElementText) {
     case 'Playstation':
-      fetchPath = '/python/data_json/data_playstation.json';
+      fetchPath = 'python/data_json/data_playstation.json';
       break;
     case 'Playstation 4':
-      fetchPath = '/python/data_json/data_ps4.json';
+      fetchPath = 'python/data_json/data_ps4.json';
       break;
     case 'Playstation 5':
-      fetchPath = '/python/data_json/data_ps5.json';
+      fetchPath = 'python/data_json/data_ps5.json';
       break;
     case 'Xbox':
-      fetchPath = '/python/data_json/data_xbox.json';
+      fetchPath = 'python/data_json/data_xbox.json';
       break;
     case 'Xbox One': 
-      fetchPath = '/python/data_json/data_one.json';
+      fetchPath = 'python/data_json/data_one.json';
       break;
     case 'Xbox Series XS':
-      fetchPath = '/python/data_json/data_xs.json';
+      fetchPath = 'python/data_json/data_xs.json';
       break;
     case 'PC':
-      fetchPath = '/python/data_json/data_pc.json';
+      fetchPath = 'python/data_json/data_pc.json';
       break;
     case 'ALL PC':
-      fetchPath = '/python/data_json/data_pc.json';
+      fetchPath = 'python/data_json/data_pc.json';
       break;
     case 'Steam':
-      fetchPath = '/python/data_json/data_steam.json';
+      fetchPath = 'python/data_json/data_steam.json';
       break;
     case 'Epic Games Store':
-      fetchPath = '/python/data_json/data_epic.json';
+      fetchPath = 'python/data_json/data_epic.json';
       break;
     case 'GOG':
-      fetchPath = 'website_free_games/python/data_json/data_gog.json';
+      fetchPath = 'python/data_json/data_gog.json';
       break;
     default:
-      fetchPath = 'website_free_games/python/data_json/data_pc.json'
+      fetchPath = 'python/data_json/data_pc.json'
       break;
   }
   return fetchPath;
