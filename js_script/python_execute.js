@@ -1,7 +1,15 @@
 function runPythonScript() {
-    var pythonScriptPath = "python/api.py";
+    var pythonScriptPath = "./python/api.py";
+    fetch(`http://localhost:3000/run-python?script=${pythonScriptPath}`)
+      .then(response => response.text())
+      .then(result => console.log(result))
+      .catch(error => console.error(`Error executing Python script: ${error}`));
+  }
 
-    subprocess.run(["python", pythonScriptPath]);
-}
+  window.onload = function () {
+    runPythonScript();
+  };
 
-window.addEventListener('load', runPythonScript);
+  setInterval(() => {
+    location.reload();
+  }, 5000);
