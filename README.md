@@ -1,1 +1,2 @@
 #GiveawayWebsite# Website built around API and Python script which i wrote to pull JSON data about available free games and DLCs'. The tech stack include HTML, CSS, JavaScript, Python and REST API. Utilized GIT for version control which was very important because i work on two separate devices. This project similar to the other, was entirely conceived by me, and i handled both webiste's design and technical aspects from inception to completion.
+This project is still unfinished.
