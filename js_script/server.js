@@ -1,9 +1,5 @@
 var cron = require('node-cron');
 
-cron.schedule('0 0 */22 * * *', () => {
-  console.log('running a task every 22 hours')
-});
-
 const express = require('express');
 const { exec } = require('child_process');
 
@@ -24,6 +20,12 @@ app.get('/run-python', (req, res) => {
       res.send('Python script executed successfully');
     }
   });
+});
+
+// Schedule the cron job to run every 22 hours
+cron.schedule('0 0 */22 * * *', () => {
+  console.log('Running a task every 22 hours');
+  executePythonScript('./python/api.py');
 });
 
 // Execute the Python script when the server starts
