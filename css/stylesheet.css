@@ -213,6 +213,12 @@ h1 {
   width: 100%;
 }
 
+@media only screen and (max-width: 900px) {
+  .containers {
+    display: none;
+  }
+}
+
 .carousel-caption {
   /* border: 2px solid red; */
   justify-content: center;
@@ -468,7 +474,7 @@ h1 {
 } */
 
 .menu {
-  border: 2px solid green;
+  /* border: 2px solid green; */
   list-style: none;
   display: flex;
   flex-direction: column;
@@ -531,6 +537,15 @@ h1 {
 }
 
 @media only screen and (max-width: 900px) {
+  
+  .nav_links {
+    /* border: 2px solid green; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* padding: 10px; */
+  }  
+  
   .dropdown {
     /* border: 2px solid red; */
     font-size: 15px;
@@ -542,7 +557,7 @@ h1 {
     /* border: 2px solid red; */
     width:140px;
     height: fit-content;
-    /* transform: translateZ(5%); */
+    transform: translateX(5%);
     justify-content: space-evenly;    
     margin-top: 10px;
   }

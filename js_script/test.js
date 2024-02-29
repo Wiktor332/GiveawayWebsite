@@ -90,7 +90,7 @@ function fetchData_wrapper(path_wrapper) {
         console.error('Error fetching data:', err);
       });
 
-      const containersElement = document.querySelector(".containers");
+//       const containersElement = document.querySelector(".containers");
 
       // Check screen width and set display style accordingly
       if (window.innerWidth < 1300) {
@@ -116,10 +116,10 @@ window.addEventListener('resize', () => {
   }
 
 
-  if (window.innerWidth < 1300) {
-    containersElement.style.display = 'none';
-  } else {
+  if (window.innerWidth >= 1300) {
     containersElement.style.display = 'flex';
+  } else {
+    containersElement.style.display = 'none';
   }
 });
 
@@ -312,18 +312,18 @@ function fetchData(path) {
       console.log(count);
       document.getElementById("cards").innerHTML = data1;
 
-      const cardsWrapper = document.getElementById("cards");
-      const carouselWrapper = document.querySelector(".containers");
+      // const cardsWrapper = document.getElementById("cards");
+      // const carouselWrapper = document.querySelector(".containers");
 
-      if (count <= 3) {
-        cardsWrapper.style.display = 'block'; // Show cards
-        carouselWrapper.style.display = 'none'; // Hide carousel wrapper
-        cardsWrapper.innerHTML = data1; // Update cards content
-      } else {
-        cardsWrapper.style.display = 'flex'; // Show cards
-        carouselWrapper.style.display = 'flex'; // Show carousel wrapper
-        cardsWrapper.innerHTML = data1;
-      }
+      // if (count <= 3) {
+      //   cardsWrapper.style.display = 'block'; // Show cards
+      //   carouselWrapper.style.display = 'none'; // Hide carousel wrapper
+      //   cardsWrapper.innerHTML = data1; // Update cards content
+      // } else {
+      //   cardsWrapper.style.display = 'flex'; // Show cards
+      //   carouselWrapper.style.display = 'flex'; // Show carousel wrapper
+      //   cardsWrapper.innerHTML = data1;
+      // }
     })
 
     .catch((err) => {
