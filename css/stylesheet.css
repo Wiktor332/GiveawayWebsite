@@ -470,6 +470,8 @@ h1 {
 .menu {
   border: 2px solid green;
   list-style: none;
+  display: flex;
+  flex-direction: column;
   /* padding: 0.2em 0.5em; */
   /* background: rgba(46, 42, 42, 0.8); */
   background-color: rgba(75, 71, 71, 0.845);
@@ -481,7 +483,7 @@ h1 {
   align-items: center;
   text-align: center;
   top: 2.5em;
-  width: 150px;
+  width: 200px;
   opacity: 0;
   transition: 0.5s;
   z-index: 1;
@@ -490,10 +492,8 @@ h1 {
 
 .menu li {
   /* border: 2px solid yellow; */
-  /* padding: 0.7em 0.5em; */
-  /* gap: 30px; */
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  flex-direction: row; */
   align-items: center;
   justify-content: space-evenly;
   border-radius: 0.5em;
@@ -540,16 +540,15 @@ h1 {
 
   .menu {
     /* border: 2px solid red; */
-    width: max-content;
+    width:140px;
     height: fit-content;
-    transform: translateZ(5%);
+    /* transform: translateZ(5%); */
     justify-content: space-evenly;    
     margin-top: 10px;
   }
 
   .menu li {
     /* border: 2px solid yellow; */
-    /* padding: 0.7em 0.5em; */
     padding: 5px;
     border-radius: 0.5em;
     cursor: pointer;
