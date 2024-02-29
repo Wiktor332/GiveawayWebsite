@@ -527,7 +527,7 @@ h1 {
   flex-direction: column;
   opacity: 1;
   pointer-events: auto;
-  width: 220px;
+  width: 200px;
 }
 
 @media only screen and (max-width: 900px) {
@@ -542,7 +542,7 @@ h1 {
     /* border: 2px solid red; */
     width: max-content;
     height: fit-content;
-    transform: translateX(5%);
+    transform: translateZ(5%);
     justify-content: space-evenly;    
     margin-top: 10px;
   }
@@ -571,9 +571,16 @@ h1 {
     flex-direction: column;
     opacity: 1;
     pointer-events: auto;
-    width: 150px;
+    width: 140px;
   }
-  
+
+  .menu li a{
+    /* border: 2px solid red; */
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    width: 100%;
+  }
   
   #myInput {
     display: none;
