@@ -303,11 +303,8 @@ h1 {
     justify-content: space-evenly;
     flex-direction: row;
     flex-wrap: wrap;
-    /* background-color: rgba(75, 71, 71, 0.845); */
     border-radius: 10px;
     margin: auto;
-    /* margin-top: 35px;
-    margin-bottom: 35px; */
     gap: 30px;
 }
 
@@ -322,7 +319,6 @@ h1 {
     text-align: center;
     align-items: center;
     justify-content: space-evenly;
-    /* padding:10px; */
     margin-top: 2em;
     margin-bottom: 2em;
     cursor: pointer;
@@ -365,14 +361,64 @@ h1 {
     font-size: 25px;
     font-weight: 550;
     color: white;
+}
 
+#images {
+    width: fit-content;
+    height: fit-content;
+    object-fit: contain;
+    z-index: -1;
+}
+
+@media only screen and (max-width: 900px) {
+  #cards {
+    /* border: 2px solid green; */
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.card {
+  /* border: 2px solid yellow; */
+  background-color: rgba(46, 42, 42, 0.502);
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+  height: fit-content;
+  box-shadow: 0 0 7px 3px grey;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  cursor: pointer;
+  transition: top ease 0.4s ;
 }
 
 .images {
-    width: fit-content;
-    height: fit-content;
-    z-index: -1;
+  width: 370px;
+  height: fit-content;
+  object-fit: contain;
+  z-index: -1;
 }
+
+.title{
+  /* border: 2px solid red; */
+  height: 70px;
+  font-size: 20px;
+  font-weight: 550;
+  color: white;
+}
+
+h1 {
+  font-size: large;
+}
+
+}
+
 
 /* Navigation */
 
@@ -435,7 +481,7 @@ h1 {
   align-items: center;
   text-align: center;
   top: 2.5em;
-  width: max-content;
+  width: 180px;
   opacity: 0;
   transition: 0.5s;
   z-index: 1;
@@ -483,10 +529,6 @@ h1 {
   pointer-events: auto;
   width: max-content;
 }
-
-/* .menu-open li{
-} */
-
 
 @media only screen and (max-width: 900px) {
   .dropdown {
@@ -626,7 +668,7 @@ input[type="checkbox1"]:checked + label .link {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 20px; /* Adjust padding as needed */
+  /* padding: 20px; Adjust padding as needed */
 }
 
 .container-footer h3 {
