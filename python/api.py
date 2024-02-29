@@ -75,7 +75,7 @@ dd_one = json.loads(d_one)
 dd_xs = json.loads(d_xs)
 
 # Define the base directory
-base_directory = Path(r'C:\Users\wikto\Desktop\VS_CODE\Website_Projects\website_free_games\python\data_json')
+base_directory = Path(r'python\data_json')
 
 # Main
 data_pc = 'data_pc'
@@ -92,11 +92,8 @@ jsonpath_xbox.write_text(json.dumps(dd_xbox, indent=4))
 
 # Submain
 data_steam = 'data_steam'
-base = Path('../python/data_json')
-jsonpath = base/(data_steam + ".json")
-
-base.mkdir(exist_ok=True)
-jsonpath.write_text(json.dumps(dd_steam, indent=4))
+jsonpath_steam = base_directory / (data_steam + ".json")
+jsonpath_steam.write_text(json.dumps(dd_steam, indent=4))
 
 data_gog = 'data_gog'
 jsonpath_gog = base_directory / (data_gog + ".json")
