@@ -15,6 +15,7 @@
             <link rel="stylesheet" type="text/css" href="./css/stylesheet.css">
             <link rel="stylesheet" href="https://pyscript.net/releases/2023.11.1/core.css" />
             <script type="module" src="https://pyscript.net/releases/2023.11.1/core.js"></script>
+            <script src="./js_script/server.js"></script>
     </head>
     <body>
     <div class="bodyback">
@@ -51,10 +52,19 @@
                         <li class="active"><a href="index_xbox.html">Xbox</a></li>
                     </ul>
                 </div>
-            </div>
+            <!-- Input Filter by Titles -->
                 <div class="inpt">
                     <input type="text" id="myInput" onkeyup="searchFunction()" placeholder="Search for titles...">
                 </div>
+            <!-- End -->
+        </div>
+        <!-- <div class="filter">
+            <button id="filterby">Filter:</button>
+            <div id="filterOptions" class="options">
+                <button class="filterOption">Games</button>
+                <button class="filterOption">DLC</button>
+            </div>
+        </div> -->
           </section>
           <script src="js_script/onclik_dropdown.js"></script>
 
@@ -97,8 +107,6 @@
                 </div>
             </div>
        
-        <!-- <script src="../js_script/test_fetch_wrapper.js"></script> -->
-          <script src="/js_script/wrapper-control.js"></script>
             <h1>Games and DLC available to download:</h1>
             <div id="cards">
                 <div class="card">
@@ -143,6 +151,7 @@
             <div id="root"></div>
             <script src="./js_script/input_filtering.js"></script>
             <script src="./js_script/test.js"></script>
+            <script src="./js_script/filterby.js"></script>
             <!-- FOOTER -->
             <footer id="footer">
                 <div class="container-footer">

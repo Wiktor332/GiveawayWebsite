@@ -23,9 +23,11 @@ app.get('/run-python', (req, res) => {
 });
 
 // Schedule the cron job to run every 22 hours
+// cron.schedule('* * * * *', () => {
 cron.schedule('0 0 */22 * * *', () => {
   console.log('Running a task every 22 hours');
-  executePythonScript('./python/api.py');
+  exec(`python ${pythonScriptPath}`, (error, stdout, stderr) => {
+  });
 });
 
 // Execute the Python script when the server starts
