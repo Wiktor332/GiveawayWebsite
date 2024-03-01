@@ -1,3 +1,6 @@
+require("dotenv").config();
+
+
 var cron = require('node-cron');
 
 const express = require('express');
@@ -5,6 +8,10 @@ const { exec } = require('child_process');
 
 const app = express();
 const port = 3000;
+
+// Redirect requests to endpoint starting with /posts to postRoutes.js
+app.use("/posts", require("./routes/postRoutes"));
+
 
 // Endpoint to execute the Python script
 app.get('/run-python', (req, res) => {

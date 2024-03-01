@@ -9,40 +9,40 @@ function handleTrackedTextContent() {
 
   switch (trackedElementText) {
     case 'Playstation':
-      fetchPath_wrapper = 'python/data_json/data_playstation.json';
+      fetchPath_wrapper = './python/data_json/data_playstation.json';
       break;
     case 'Playstation 4':
-      fetchPath_wrapper = 'python/data_json/data_ps4.json';
+      fetchPath_wrapper = './python/data_json/data_ps4.json';
       break;
     case 'Playstation 5':
-      fetchPath_wrapper = 'python/data_json/data_ps5.json';
+      fetchPath_wrapper = './python/data_json/data_ps5.json';
       break;
     case 'Xbox':
-      fetchPath_wrapper = 'python/data_json/data_xbox.json';
+      fetchPath_wrapper = './python/data_json/data_xbox.json';
       break;
     case 'Xbox One':
-      fetchPath_wrapper = 'python/data_json/data_one.json';
+      fetchPath_wrapper = './python/data_json/data_one.json';
       break;
     case 'Xbox Series XS':
-      fetchPath_wrapper = 'python/data_json/data_xs.json';
+      fetchPath_wrapper = './python/data_json/data_xs.json';
       break;
     case 'PC':
-      fetchPath_wrapper = 'python/data_json/data_pc.json';
+      fetchPath_wrapper = './python/data_json/data_pc.json';
       break;
     case 'ALL PC':
-      fetchPath_wrapper = 'python/data_json/data_pc.json';
+      fetchPath_wrapper = './python/data_json/data_pc.json';
       break;
     case 'Steam':
-      fetchPath_wrapper = 'python/data_json/data_steam.json';
+      fetchPath_wrapper = './python/data_json/data_steam.json';
       break;
     case 'Epic Games Store':
-      fetchPath_wrapper = 'python/data_json/data_epic.json';
+      fetchPath_wrapper = './python/data_json/data_epic.json';
       break;
     case 'GOG':
-      fetchPath_wrapper = 'python/data_json/data_gog.json';
+      fetchPath_wrapper = './python/data_json/data_gog.json';
       break;
     default:
-      fetchPath_wrapper = 'python/data_json/data_pc.json'
+      fetchPath_wrapper = './python/data_json/data_pc.json'
       break;
   }
   return fetchPath_wrapper;
@@ -86,11 +86,11 @@ function fetchData_wrapper(path_wrapper) {
       });
         document.querySelector(".containers").innerHTML = data_wrapper;
       })
-      .catch((err) => {
-        console.error('Error fetching data:', err);
-      });
+      // .catch((err) => {
+      //   console.error('Error fetching data:', err);
+      // });
 
-//       const containersElement = document.querySelector(".containers");
+      const containersElement = document.querySelector(".containers");
 
       // Check screen width and set display style accordingly
       if (window.innerWidth < 1300) {
@@ -100,9 +100,9 @@ function fetchData_wrapper(path_wrapper) {
         containersElement.innerHTML = data_wrapper;
       }
     })
-    .catch((err) => {
-      console.error('Error fetching data:', err);
-    });
+    // .catch((err) => {
+    //   console.error('Error fetching data:', err);
+    // });
 }
 
 // Listen for window resize events to update display style
@@ -242,40 +242,40 @@ function handleTrackedTextContent() {
 
   switch (trackedElementText) {
     case 'Playstation':
-      fetchPath = 'python/data_json/data_playstation.json';
+      fetchPath = './python/data_json/data_playstation.json';
       break;
     case 'Playstation 4':
-      fetchPath = 'python/data_json/data_ps4.json';
+      fetchPath = './python/data_json/data_ps4.json';
       break;
     case 'Playstation 5':
-      fetchPath = 'python/data_json/data_ps5.json';
+      fetchPath = './python/data_json/data_ps5.json';
       break;
     case 'Xbox':
-      fetchPath = 'python/data_json/data_xbox.json';
+      fetchPath = './python/data_json/data_xbox.json';
       break;
     case 'Xbox One': 
-      fetchPath = 'python/data_json/data_one.json';
+      fetchPath = './python/data_json/data_one.json';
       break;
     case 'Xbox Series XS':
-      fetchPath = 'python/data_json/data_xs.json';
+      fetchPath = './python/data_json/data_xs.json';
       break;
     case 'PC':
-      fetchPath = 'python/data_json/data_pc.json';
+      fetchPath = './python/data_json/data_pc.json';
       break;
     case 'ALL PC':
-      fetchPath = 'python/data_json/data_pc.json';
+      fetchPath = './python/data_json/data_pc.json';
       break;
     case 'Steam':
-      fetchPath = 'python/data_json/data_steam.json';
+      fetchPath = './python/data_json/data_steam.json';
       break;
     case 'Epic Games Store':
-      fetchPath = 'python/data_json/data_epic.json';
+      fetchPath = './python/data_json/data_epic.json';
       break;
     case 'GOG':
-      fetchPath = 'python/data_json/data_gog.json';
+      fetchPath = './python/data_json/data_gog.json';
       break;
     default:
-      fetchPath = 'python/data_json/data_pc.json'
+      fetchPath = './python/data_json/data_pc.json'
       break;
   }
   return fetchPath;
@@ -311,19 +311,6 @@ function fetchData(path) {
       });
       console.log(count);
       document.getElementById("cards").innerHTML = data1;
-
-      // const cardsWrapper = document.getElementById("cards");
-      // const carouselWrapper = document.querySelector(".containers");
-
-      // if (count <= 3) {
-      //   cardsWrapper.style.display = 'block'; // Show cards
-      //   carouselWrapper.style.display = 'none'; // Hide carousel wrapper
-      //   cardsWrapper.innerHTML = data1; // Update cards content
-      // } else {
-      //   cardsWrapper.style.display = 'flex'; // Show cards
-      //   carouselWrapper.style.display = 'flex'; // Show carousel wrapper
-      //   cardsWrapper.innerHTML = data1;
-      // }
     })
 
     .catch((err) => {

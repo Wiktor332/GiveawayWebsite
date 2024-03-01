@@ -251,9 +251,10 @@ h1 {
   margin-bottom: 80px;
   height: 100%;
   width: 80%;
+  gap: 30px;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1300px) {
   .containers {
     display: none;
   }
