@@ -126,9 +126,10 @@ body {
 /* Filter */
 
 .dropdown-filter {
-  min-width: 15em;
+  /* min-width: 15em; */
+  width: fit-content;
   position:relative;
-  /* margin: 2em; */
+  /* margin: 2em; */ 
 }
 
 .dropdown-filter * {
@@ -160,6 +161,7 @@ body {
 .caret {
   width: 0;
   height: 0;
+  margin-left: 10px;
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
   border-top: 6px solid #fff;
@@ -515,7 +517,7 @@ h1 {
   flex-direction: row;
   justify-content: space-evenly;
   padding: 10px;
-  gap: 50px;
+  gap: 2%;
 }
 
 /* Dropdown menu styles */
