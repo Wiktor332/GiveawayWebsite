@@ -115,8 +115,6 @@ data_xs = 'data_xs'
 jsonpath_xs = base_directory / (data_xs + ".json")
 jsonpath_xs.write_text(json.dumps(dd_xs, indent=4))
 
-
-
 path_ps4 = Path(r'python\data_json\data_ps4.json')
 path_ps5 = Path(r'python\data_json\data_ps5.json')
 output_path_ps = Path(r'python\data_json\data_playstation.json')

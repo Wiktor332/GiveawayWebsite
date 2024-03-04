@@ -57,16 +57,20 @@
                     <input type="text" id="myInput" onkeyup="searchFunction()" placeholder="Search for titles...">
                 </div>
             <!-- End -->
-        </div>
-        <!-- <div class="filter">
-            <button id="filterby">Filter:</button>
-            <div id="filterOptions" class="options">
-                <button class="filterOption">Games</button>
-                <button class="filterOption">DLC</button>
+            <div class="dropdown-filter">
+                <div class="select-filter">
+                    <span class="selected-filter">No Category</span>
+                    <div class="caret"></div>
+                </div>
+            <ul class="menu-filter" >
+                <li>Games</li>
+                <li>DLC</li>
+                <li>Other</li>
+                <li>All</li>
+            </ul>
             </div>
-        </div> -->
+    </div>
           </section>
-          <script src="js_script/onclik_dropdown.js"></script>
 
             <h1 class="top3-title">Top 3 Users' Choices</h1>
             <div class="containers">
@@ -152,6 +156,7 @@
             <script src="./js_script/input_filtering.js"></script>
             <script src="./js_script/test.js"></script>
             <script src="./js_script/filterby.js"></script>
+            <script src="js_script/onclik_dropdown.js"></script>
             <!-- FOOTER -->
             <footer id="footer">
                 <div class="container-footer">
