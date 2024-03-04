@@ -76,50 +76,11 @@ dd_xs = json.loads(d_xs)
 
 # Define the base directory
 base_directory = Path(r'python\data_json')
-# print(d_ps4)
-
-path_ps4 = Path(r'python\data_json\data_ps4.json')
-path_ps5 = Path(r'python\data_json\data_ps5.json')
-output_path = Path(r'python\data_json')
-
-def merge_playstation(path_ps4, path_ps5, output_path):
-    with open(path_ps4) as data_ps4:
-        pps4 = json.load(data_ps4)
-    with open(path_ps5) as data_ps5:
-        pps5 = json.load(data_ps5)
-
-    merged_data = pps4 + pps5
-
-    unique_data = {entry["id"]: entry for entry in merged_data}.values()
-
-    with open(output_path, 'w') as data_playstation
-    
-# Create unique set for playstation
-keys = set()
-keys.update(pps4.keys())
-keys.update(pps5.keys())
-# for each key merge values from dicts     
-result = {}   
-for key in keys:
-    merge = {}
-    if key in pps4:
-        merge.update(pps4[key])
-    if key in pps5:
-        merge.update(pps5[key])
-    result[key] = merge
-
-data_playstation = 'data_playstation'
-jsonpath_playstation = base_directory / (data_playstation + ".json")
-jsonpath_playstation.write_text(json.dumps(result, indent=4))
 
 # Main
 data_pc = 'data_pc'
 jsonpath_pc = base_directory / (data_pc + ".json")
 jsonpath_pc.write_text(json.dumps(dd_pc, indent=4))
-
-# data_playstation = 'data_playstation'
-# jsonpath_playstation = base_directory / (data_playstation + ".json")
-# jsonpath_playstation.write_text(json.dumps(dd_playstation, indent=4))
 
 data_xbox = 'data_xbox'
 jsonpath_xbox = base_directory / (data_xbox + ".json")
@@ -156,6 +117,43 @@ jsonpath_xs.write_text(json.dumps(dd_xs, indent=4))
 
 
 
+path_ps4 = Path(r'python\data_json\data_ps4.json')
+path_ps5 = Path(r'python\data_json\data_ps5.json')
+output_path_ps = Path(r'python\data_json\data_playstation.json')
+
+def merge_playstation(path_ps4, path_ps5, output_path_ps):
+    with open(path_ps4) as data_ps4:
+        pps4 = json.load(data_ps4)
+    with open(path_ps5) as data_ps5:
+        pps5 = json.load(data_ps5)
+
+    merged_data_ps = pps4 + pps5
+
+    unique_data_ps = {entry["title"]: entry for entry in merged_data_ps}.values()
+
+    with open(output_path_ps, 'w') as data_playstation:
+        json.dump(list(unique_data_ps), data_playstation, indent=4)
+
+merge_playstation(path_ps4, path_ps5, output_path_ps)
+
+path_xbox_xs = Path(r'python\data_json\data_xs.json')
+path_xbox_one = Path(r'python\data_json\data_one.json')
+output_path_xbox = Path(r'python\data_json\data_xbox.json')
+
+def merge_xbox(path_xbox_xs, path_xbox_one, output_path_xbox):
+    with open(path_xbox_xs) as path_xbox_xs:
+        xxs = json.load(path_xbox_xs)
+    with open(path_xbox_one) as path_xbox_one:
+        xxone = json.load(path_xbox_one)
+
+    merged_data_xbox = xxs + xxone
+
+    unique_data_xbox = {entry["title"]: entry for entry in merged_data_xbox}.values()
+
+    with open(output_path_xbox, 'w') as data_xbox:
+        json.dump(list(unique_data_xbox), data_xbox, indent=4)
+
+merge_xbox(path_xbox_xs, path_xbox_one, output_path_xbox)
 
 
 

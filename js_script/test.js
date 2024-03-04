@@ -67,7 +67,6 @@ function fetchData_wrapper(path_wrapper) {
 
         let data_wrapper = "";
         topThree.forEach((values, index) => {
-        // const activeClass = index === 0 ? 'carousel-item active' : 'carousel-item';
         const checkboxID = `btnControl_${index}`;
         data_wrapper +=
           `
@@ -86,9 +85,9 @@ function fetchData_wrapper(path_wrapper) {
       });
         document.querySelector(".containers").innerHTML = data_wrapper;
       })
-      // .catch((err) => {
-      //   console.error('Error fetching data:', err);
-      // });
+      .catch((err) => {
+        console.error('Error fetching data:', err);
+      });
 
       const containersElement = document.querySelector(".containers");
 

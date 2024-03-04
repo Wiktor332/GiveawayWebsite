@@ -10,7 +10,7 @@ const app = express();
 const port = 3000;
 
 // Redirect requests to endpoint starting with /posts to postRoutes.js
-app.use("/posts", require("./routes/postRoutes"));
+// app.use("/posts", require("./routes/postRoutes"));
 
 
 // Endpoint to execute the Python script
