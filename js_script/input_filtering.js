@@ -29,18 +29,6 @@ function searchFunction() {
             gameCard.style.display = "none"; // Hide the card for game
         }
     }
-
-    // Handle the visibility of cardsWrapper based on the count
-    const cardsWrapper = document.getElementById('cardsWrapper');
-    const carouselWrapper = document.getElementById('carouselWrapper');
-
-    if (count <= 3) {
-        cardsWrapper.style.display = 'block'; // Show cards
-        carouselWrapper.style.display = 'none'; // Hide carousel wrapper
-    } else {
-        cardsWrapper.style.display = 'flex'; // Show cards
-        carouselWrapper.style.display = 'flex'; // Show carousel wrapper
-    }
 }
 
 // Initial hide/show based on total count before any filtering

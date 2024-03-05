@@ -7,7 +7,6 @@ let trackedElementText = "";
 // Function to determine the path based on trackedElementText
 function handleTrackedTextContent() {
   let fetchPath = ''; // Default path
-
   switch (trackedElementText) {
     case 'Playstation':
       fetchPath = './python/data_json/data_playstation.json';
@@ -98,7 +97,8 @@ function loadDataFromURL() {
         trackedElementText = option.textContent;
         const path = handleTrackedTextContent();
         fetchData(path);
-
+        // Update title and selected text
+        selected.innerText = trackedElementText;
         // Update UI with selected option
         const selected = document.querySelector('.selected');
         selected.innerText = trackedElementText;
@@ -108,7 +108,6 @@ function loadDataFromURL() {
     trackedElementText = "PC"; // Set default to PC
     const path = handleTrackedTextContent();
     fetchData(path);
-
     // Update UI with default option
     const selected = document.querySelector('.selected');
     selected.innerText = trackedElementText;
