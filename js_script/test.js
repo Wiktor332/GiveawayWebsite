@@ -283,6 +283,16 @@ fetch(path_wrapper)
     });
 
     const containersElement = document.querySelector(".containers");
+    const wrapper = document.querySelector(".wrapper")
+    const cardsElement = document.getElementById("cards");
+    const numberOfObjects = cardsElement.querySelectorAll(".card").length;
+    console.log("number of objects", numberOfObjects);
+  
+    if (numberOfObjects < 1) {
+      wrapper.style.display = 'none';
+    } else {
+      wrapper.style.display = 'block'
+    }
 
     // Check screen width and set display style accordingly
     if (window.innerWidth < 1300) {
@@ -430,7 +440,7 @@ window.addEventListener('load', () => {
 // Load data for cards on page load 
 window.addEventListener('load', () => {
     CardsModule.loadDataFromURL();
+    CardsModule.log(`Total mapped objects: ${count}`);
 });
 
-// CardsModule.log(`Total mapped objects: ${count}`);
 

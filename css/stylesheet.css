@@ -216,6 +216,14 @@ body {
 
 /* CAROUSEL WRAPPER */
 
+.wrapper {
+  /* border: 2px solid red; */
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 h2  {
   color: white;
@@ -224,7 +232,15 @@ h2  {
   margin-top: 50px;
 }
 
-h1 {
+.top3-title {
+  /* border: 2px solid red; */
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20px;
+}
+
+.cards-title {
   color: white;
   text-align: center;
   font-size: 50px;
@@ -522,149 +538,6 @@ h1 {
 }
 
 /* Dropdown menu styles */
-/* .dropdown {
-  width: fit-content;
-  border-radius: 5px;
-  font-size: 30px;
-} */
-
-/* .dropdown * {
-  box-sizing: border-box;
-} */
-
-/* .select {
-  color: white;
-  border-radius: 0.5em;
-  cursor: pointer;
-  transition: background 1s ease-in, scale 1s ease;
-} */
-
-/* .select a{
-  text-decoration: none;
-} */
-
-/* .select-clicked {
-  width: 100%;
-  border: 2px #26489a solid;
-  box-shadow: 0 0 0.8em #26489a;
-} */
-
-/* .menu {
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  background-color: rgba(75, 71, 71, 0.845);
-  border: 1px #363a43 solid;
-  box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
-  border-radius: 10px;
-  color: white;
-  position: absolute;
-  align-items: center;
-  text-align: center;
-  top: 2.5em;
-  width: 180px;
-  opacity: 0;
-  transition: 0.5s;
-  z-index: 1;
-  pointer-events: none;
-} */
-
-/* .menu li {
-  align-items: center;
-  justify-content: space-evenly;
-  border-radius: 0.5em;
-  cursor: pointer;
-  font-size: 20px;
-  width: 100%;
-} */
-
-/* .menu li a{
-  text-decoration: none;
-  font-size: 20px;
-  color: white;
-  width: 100%;
-} */
-
-/* .selected {
-  border: 2px solid green;
-  text-decoration: none;
-  color: white;
-} */
-
-/* .active {
-  background-color: rgba(46, 42, 42, 0.8);
-} */
-
-/* .menu-open {
-  display: flex;
-  flex-direction: column;
-  opacity: 1;
-  pointer-events: auto;
-  width: 220px;
-} */
-
-/* .menu-open li{
-  margin-right: 25px;
-} */
-
-/* @media only screen and (max-width: 900px) { */
-  
-  /* .nav_links {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-  }   */
-  
-  /* .dropdown {
-    font-size: 15px;
-    width:fit-content;
-    height: fit-content;
-  } */
-
-  /* .menu {
-    width:140px;
-    height: fit-content;
-    transform: translateX(-20%);
-    justify-content: space-evenly;    
-    margin-top: 10px;
-  } */
-
-  /* .menu li {
-    padding: 5px;
-    border-radius: 0.5em;
-    cursor: pointer;
-    width: 100%;
-    margin-right: 20px;
-  } */
-  
-  /* .menu li a{
-    text-decoration: none;
-    font-size: 15px;
-    color: white;
-    margin-right: 20px;
-  } */
-
-  /* .menu-open {
-    display: flex;
-    flex-direction: column;
-    opacity: 1;
-    pointer-events: auto;
-    width: 140px;
-  } */
-
-  /* .menu li a{
-    text-decoration: none;
-    font-size: 15px;
-    color: white;
-    width: 100%;
-  } */
-  
-  /* #myInput {
-    display: none;
-  }
-
-} */
-
 .dropdown {
   width:160px;
   position: relative;
