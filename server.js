@@ -7,7 +7,7 @@ const express = require('express');
 const { exec } = require('child_process');
 
 const app = express();
-const port = 3000;
+const port = 3100;
 
 // Redirect requests to endpoint starting with /posts to postRoutes.js
 // app.use("/posts", require("./routes/postRoutes"));
@@ -49,4 +49,9 @@ exec(`python ${pythonScriptPath}`, (error, stdout, stderr) => {
 
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
+});
+
+
+cron.schedule('0 0 * * * *', () => {
+  console.log('Running a check every hour');
 });
