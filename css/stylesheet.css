@@ -311,11 +311,11 @@ h2  {
   gap: 30px;
 }
 
-@media only screen and (max-width: 1300px) {
-  .containers {
+/* @media only screen and (max-width: 1300px) {
+  .wrapper {
     display: none;
   }
-}
+} */
 
 .carousel-caption {
   /* border: 2px solid red; */

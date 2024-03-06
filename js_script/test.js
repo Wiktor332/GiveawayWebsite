@@ -76,7 +76,7 @@ function fetchData(path) {
       </div>`;
       count++;
       });
-      console.log(count);
+      console.log("test objects:",count);
       document.getElementById("cards").innerHTML = data1;
     })
 
@@ -84,6 +84,26 @@ function fetchData(path) {
       console.error('Error fetching data:', err);
     });
 }
+
+function updateTitleHeader(newText) {
+    if (window.innerWidth < 1300) {
+        trackedElementText = newText; // Update trackedElementText first
+        const titleHeader = document.querySelector('.cards-title');
+        if (titleHeader) {
+          const newTitle = `${newText} Games and DLC available to download:`;
+          titleHeader.textContent = newTitle;
+        }
+      }
+}
+
+function getCount() {
+  const cardsElement = document.getElementById("cards");
+  const cardElements = cardsElement.querySelectorAll(".card");
+  const count = cardElements.length;
+  console.log('Count:', count); // Log the count
+  return count;
+}
+
 
 // Function to load data based on URL parameter or default to PC data
 function loadDataFromURL() {
@@ -97,6 +117,7 @@ function loadDataFromURL() {
         trackedElementText = option.textContent;
         const path = handleTrackedTextContent();
         fetchData(path);
+        updateCardsHeader();
         // Update title and selected text
         selected.innerText = trackedElementText;
         // Update UI with selected option
@@ -117,6 +138,7 @@ function loadDataFromURL() {
 // Load data on page load
 window.addEventListener('load', () => {
   loadDataFromURL();
+  getCount();
 });
 
 // Iterate through dropdown elements
@@ -135,7 +157,10 @@ dds.forEach(dd => {
   options.forEach(option => {
     option.addEventListener('click', (event) => {
       event.preventDefault();
-  
+
+      const clickedText = option.textContent;
+      updateTitleHeader(clickedText);
+
       trackedElementText = option.textContent;
       selected.innerText = trackedElementText;
   
@@ -146,6 +171,7 @@ dds.forEach(dd => {
   
       console.log('Clicked option:', trackedElementText); // Log the clicked option
       console.log('Fetching data from path:', path); // Log the fetch path
+      
   
       // Change the URL based on the clicked option
       const page = option.getAttribute('href'); // Get the href attribute of the clicked option
@@ -187,13 +213,14 @@ dds.forEach(dd => {
   });
 });
 return {
-    loadDataFromURL,
+  loadDataFromURL, 
 };
 })();
 
 // Carousel Module 
 const CarouselModule = (() => {
   // Variable to store the text content of the tracked element
+
 let trackedElementText = "";
 
 // Function to determine the path_wrapper based on trackedElementText
@@ -241,6 +268,8 @@ switch (trackedElementText) {
 return fetchPath_wrapper;
 }
 
+
+
 function fetchData_wrapper(path_wrapper) {
 fetch(path_wrapper)
   .then((response) => {
@@ -281,46 +310,28 @@ fetch(path_wrapper)
     .catch((err) => {
       console.error('Error fetching data:', err);
     });
-
-    const containersElement = document.querySelector(".containers");
-    const wrapper = document.querySelector(".wrapper")
-    const cardsElement = document.getElementById("cards");
-    const numberOfObjects = cardsElement.querySelectorAll(".card").length;
-    console.log("number of objects", numberOfObjects);
-  
-    if (numberOfObjects < 1) {
-      wrapper.style.display = 'none';
-    } else {
-      wrapper.style.display = 'block'
-    }
-
-    // Check screen width and set display style accordingly
-    if (window.innerWidth < 1300) {
-      containersElement.style.display = 'none';
-    } else {
-      containersElement.style.display = 'flex';
-      containersElement.innerHTML = data_wrapper;
-    }
   })
 }
 
-// Listen for window resize events to update display style
-window.addEventListener('resize', () => {
-const containersElement = document.querySelector(".containers");
-const carouselitem = document.querySelector(".carousel-item");
-
-if(window.innerWidth < 1600) {
-  carouselitem.style.height === 500;
-  carouselitem.style.width === 450;
+function updateTitleHeader(newText) {
+  trackedElementText = newText; // Update trackedElementText first
+  const titleHeader = document.querySelector('.top3-title');
+  if (titleHeader) {
+    const newTitle = `${newText} Top 3 Users' Choices`;
+    titleHeader.textContent = newTitle;
+  }
 }
 
+function displayWrapper_width() {
+  const wrapper = document.querySelector(".wrapper");
+  if (window.innerWidth < 1300) {
+    wrapper.style.display = 'none'
+  } else {
+    wrapper.style.display = 'flex'
+  }
+} 
 
-if (window.innerWidth >= 1300) {
-  containersElement.style.display = 'flex';
-} else {
-  containersElement.style.display = 'none';
-}
-});
+
 
 // Initial fetch when the page loads
 fetchData_wrapper('your_path_here');
@@ -353,9 +364,32 @@ function loadDataFromURL() {
   }
 }
 
+
+function getCount() {
+    const cardsElement = document.getElementById("cards");
+    const cardElements = cardsElement.querySelectorAll(".card");
+    console.log('Count:', count);
+    return cardElements.length;
+}
+
 // Load data on page load
 window.addEventListener('load', () => {
   loadDataFromURL();
+  window.addEventListener('load', () => {
+    const cardCount = CardsModule.getCount(); // Call getCount() from CardsModule
+    // Use cardCount to determine the display style of the wrapper element
+    if (cardCount > 0) {
+        // Set display style to flex if there are cards
+        document.querySelector(".wrapper").style.display = 'flex';
+    } else {
+        // Set display style to none if there are no cards
+        document.querySelector(".wrapper").style.display = 'none';
+    }
+});
+});
+
+window.addEventListener('resize', () => {
+  displayWrapper_width();
 });
 
 // Iterate through dropdown elements
@@ -375,6 +409,9 @@ dds.forEach(dd => {
     option.addEventListener('click', (event) => {
       event.preventDefault();
   
+      const clickedText = option.textContent;
+      updateTitleHeader(clickedText);
+
       trackedElementText = option.textContent;
       selected.innerText = trackedElementText;
   
@@ -426,21 +463,9 @@ dds.forEach(dd => {
   });
 });
 return {
-  loadDataFromURL,
+  loadDataFromURL, 
 };
 })();
 
-
-
-// Load data for carousel on page load 
-window.addEventListener('load', () => {
-    CarouselModule.loadDataFromURL();
-});
-
-// Load data for cards on page load 
-window.addEventListener('load', () => {
-    CardsModule.loadDataFromURL();
-    CardsModule.log(`Total mapped objects: ${count}`);
-});
 
 
