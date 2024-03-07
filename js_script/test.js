@@ -93,7 +93,7 @@ function updateTitleHeader(newText) {
           const newTitle = `${newText} Games and DLC available to download:`;
           titleHeader.textContent = newTitle;
         }
-      }
+     }
 }
 
 function getCount() {
@@ -111,7 +111,7 @@ function loadDataFromURL() {
   const selectedOption = urlParams.get('page');
 
   if (selectedOption) {
-    const options = document.querySelectorAll('.menu li a');
+    const options = document.querySelectorAll('.menu li');
     options.forEach(option => {
       if (option.getAttribute('href') === selectedOption) {
         trackedElementText = option.textContent;
@@ -146,7 +146,7 @@ const dds = document.querySelectorAll('.dropdown');
 
 dds.forEach(dd => {
   const select = dd.querySelector('.select');
-  const options = dd.querySelectorAll('.menu li a'); // Changed to select anchor tags
+  const options = dd.querySelectorAll('.menu li'); // Changed to select anchor tags
 
   const selected = dd.querySelector('.selected');
 
@@ -341,7 +341,7 @@ function loadDataFromURL() {
   const selectedOption = urlParams.get('page');
 
   if (selectedOption) {
-    const options = document.querySelectorAll('.menu li a');
+    const options = document.querySelectorAll('.menu li');
     options.forEach(option => {
       if (option.getAttribute('href') === selectedOption) {
         trackedElementText = option.textContent;
@@ -397,7 +397,7 @@ const dds = document.querySelectorAll('.dropdown');
 
 dds.forEach(dd => {
   const select = dd.querySelector('.select');
-  const options = dd.querySelectorAll('.menu li a'); // Changed to select anchor tags
+  const options = dd.querySelectorAll('.menu li'); // Changed to select anchor tags
 
   const selected = dd.querySelector('.selected');
 
