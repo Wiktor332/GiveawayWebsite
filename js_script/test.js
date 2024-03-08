@@ -50,13 +50,6 @@ switch (trackedElementText) {
 return fetchPath_wrapper;
 }
 
-
-// fetchData(path)
-//   .then(({count}) => {
-//     console.log('Count:', count);
-//   });
-
-
 function fetchData_wrapper(path_wrapper) {
 fetch(path_wrapper)
   .then((response) => {
@@ -108,14 +101,14 @@ function updateTitleHeader(newText) {
   }
 }
 
-function displayWrapper_width() {
-  const wrapper = document.querySelector(".wrapper");
-  if (window.innerWidth < 1300) {
-    wrapper.style.display = 'none'
-  } else {
-    wrapper.style.display = 'flex'
-  }
-} 
+// function displayWrapper_width() {
+//   const wrapper = document.querySelector(".wrapper");
+//   if (window.innerWidth < 1300) {
+//     wrapper.style.display = 'none'
+//   } else {
+//     wrapper.style.display = 'flex'
+//   }
+// } 
 
 // Initial fetch when the page loads
 fetchData_wrapper('your_path_here');
@@ -151,22 +144,12 @@ function loadDataFromURL() {
 // Load data on page load
 window.addEventListener('load', () => {
   loadDataFromURL();
-  window.addEventListener('load', () => {
-    const cardCount = CardsModule.getCount(); // Call getCount() from CardsModule
-    // Use cardCount to determine the display style of the wrapper element
-    if (cardCount > 0) {
-        // Set display style to flex if there are cards
-        document.querySelector(".wrapper").style.display = 'flex';
-    } else {
-        // Set display style to none if there are no cards
-        document.querySelector(".wrapper").style.display = 'none';
-    }
-});
 });
 
-window.addEventListener('resize', () => {
-  displayWrapper_width();
-});
+// window.addEventListener('resize', () => {
+//   displayWrapper_width();
+// });
+
 
 // Iterate through dropdown elements
 const dds = document.querySelectorAll('.dropdown');
@@ -340,7 +323,6 @@ fetch(path)
     return {data:null, count: null};
     
   });
-  return nr;
 }
 
 
