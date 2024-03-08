@@ -414,6 +414,11 @@ h2  {
     gap: 30px;
 }
 
+.count {
+  display: none;
+  color: white;
+}
+
 .card {
     /* border: 2px solid yellow; */
     background-color: rgba(46, 42, 42, 0.502);

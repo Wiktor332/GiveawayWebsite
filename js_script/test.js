@@ -321,7 +321,17 @@ fetch(path)
     </div>`;
     count++;
     });
-    console.log("test objects:",count);
+    document.querySelector(".count").textContent = count; 
+    str_nr = document.querySelector(".count").textContent
+    let nr = parseInt(str_nr);
+    console.log("test objects:",nr);
+    console.log("type:", typeof(nr));
+    wrapper = document.querySelector(".wrapper");
+    if (nr > 3) {
+      wrapper.style.display = "flex";
+    } else {
+      wrapper.style.display = "none";
+    };
     document.getElementById("cards").innerHTML = data1;
   })
 
@@ -330,8 +340,9 @@ fetch(path)
     return {data:null, count: null};
     
   });
-  
+  return nr;
 }
+
 
 function updateTitleHeader(newText) {
   if (window.innerWidth < 1300) {
@@ -357,6 +368,8 @@ if (selectedOption) {
       const path = handleTrackedTextContent();
       fetchData(path);
       updateCardsHeader(newText);
+      console.log("type of variable:",typeof(nr));
+      
       // Update title and selected text
       selected.innerText = trackedElementText;
       // Update UI with selected option
