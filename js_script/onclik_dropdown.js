@@ -14,6 +14,7 @@ document.addEventListener('click', (event) => {
     if (!isClickInsideDropdown) {
       select.classList.remove('select-clicked');
       menu.classList.remove('menu-open');
+      caret.classList.remove('caret-rotate');
       options.forEach(option => {
         option.classList.remove('active');
       });
@@ -75,6 +76,9 @@ dropdownsFilter.forEach(dropdownFilter => {
         opt.classList.remove('active');
       });
       option.classList.add('active');
+      resetFilter();
+
+      filterCards(selectedListItem.textContent);
     });
   });
 
@@ -120,8 +124,6 @@ menuFilter.addEventListener('click', event => {
   }
 
   filterCards(selectedListItem.textContent);
-
-
 });
 
 // Event listener for clicking on the dropdown (to close it)
@@ -136,35 +138,43 @@ function resetFilter() {
   window.scrollTo({ top: 0, behavior: 'smooth'});
 }
 
-window.addEventListener('load', resetFilter); // Reset filter on page load
-
-// Event listeners for filtering and resetting
-window.addEventListener('load', () => {
-  // Check for existing filter parameter in the URL
-  const urlParams = new URLSearchParams(window.location.search);
-  const filterParam = urlParams.get('filter');
-
-  if (filterParam) {
-    // Set selected filter based on URL parameter
-    selectedFilter.textContent = filterParam;
-    filterCards(filterParam);
-  } else {
-    // No filter parameter found, use default behavior (e.g., resetFilter)
-    resetFilter(); // Or handle the default case differently
-  }
+// // Event listener for clicking on the dropdown categories
+document.querySelectorAll('.menu').forEach(selectFilter => {
+  selectFilter.addEventListener('click', () => {
+    // Reset the filter when a new category is selected
+    resetFilter();
+  });
 });
 
-window.addEventListener('popstate', () => {
-  // Handle URL changes (back/forward navigation or URL manipulation)
-  const urlParams = new URLSearchParams(window.location.search);
-  const filterParam = urlParams.get('filter');
+// window.addEventListener('load', resetFilter); // Reset filter on page load
 
-  if (filterParam) {
-    // Update selected filter and filter cards based on the parameter
-    selectedFilter.textContent = filterParam;
-    filterCards(filterParam);
-  } else {
-    // No filter parameter found in the new URL, potentially reset
-    resetFilter(); // Or handle the reset case differently
-  }
-});
+// // Event listeners for filtering and resetting
+// window.addEventListener('load', () => {
+//   // Check for existing filter parameter in the URL
+//   const urlParams = new URLSearchParams(window.location.search);
+//   const filterParam = urlParams.get('filter');
+
+//   if (filterParam) {
+//     // Set selected filter based on URL parameter
+//     selectedFilter.textContent = filterParam;
+//     filterCards(filterParam);
+//   } else {
+//     // No filter parameter found, use default behavior (e.g., resetFilter)
+//     resetFilter(); // Or handle the default case differently
+//   }
+// });
+
+// window.addEventListener('popstate', () => {
+//   // Handle URL changes (back/forward navigation or URL manipulation)
+//   const urlParams = new URLSearchParams(window.location.search);
+//   const filterParam = urlParams.get('filter');
+
+//   if (filterParam) {
+//     // Update selected filter and filter cards based on the parameter
+//     selectedFilter.textContent = filterParam;
+//     filterCards(filterParam);
+//   } else {
+//     // No filter parameter found in the new URL, reset to default filter
+//     resetFilter(); // Reset the filter to default
+//   }
+// });

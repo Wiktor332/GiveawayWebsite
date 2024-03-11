@@ -305,10 +305,8 @@ fetch(path)
   .catch((err) => {
     console.error('Error fetching data:', err);
     return {data:null, count: null};
-    
   });
 }
-
 
 function updateTitleHeader(newText) {
   if (window.innerWidth < 1300) {
@@ -320,6 +318,14 @@ function updateTitleHeader(newText) {
       }
    }
 }
+
+// Function to reset the filter
+// function resetFilter() {
+//   selectedFilter.textContent = 'Category'; // Reset selected text
+//   filterCards('All'); // Apply the default filter
+//   window.scrollTo({ top: 0, behavior: 'smooth'});
+// }
+
 
 // Function to load data based on URL parameter or default to PC data
 function loadDataFromURL() {
@@ -357,10 +363,6 @@ if (selectedOption) {
 window.addEventListener('load', () => {
 loadDataFromURL();
 });
-
-// function getCount() {
-//   const cards
-// }
 
 // Iterate through dropdown elements
 const dds = document.querySelectorAll('.dropdown');
@@ -433,5 +435,4 @@ return {
 loadDataFromURL, 
 };
 })();
-
 
