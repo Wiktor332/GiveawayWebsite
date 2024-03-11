@@ -1,9 +1,8 @@
 
 import requests
-import pandas as pd
 import json
 from pathlib import Path
-import os
+# import os
 
 # Main navabr options 
 url_pc = "https://www.gamerpower.com/api/giveaways?platform=pc"
