@@ -2,7 +2,7 @@ name: run ./python/api.py
 
 on:
   schedule:
-    ## - cron: '0 */22 * * *' # Every 22 hours
+    # - cron: '0 */22 * * *' # Every 22 hours
   - cron: '*/5 * * * *'
 
 jobs:
