@@ -2,8 +2,8 @@ name: run ./python/api.py
 
 on:
   schedule:
-    - cron: '0 */22 * * *' # At 00:00 on Monday
-
+    # - cron: '0 */22 * * *' # Every 22 hours
+  - cron: '*/5 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,7 +15,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12' # install the python version needed
+          python-version: '3.9' # install the python version needed
           
       - name: install python packages
         run: |
@@ -23,7 +23,6 @@ jobs:
           pip install -r requirements.txt
           
       - name: execute py script # run ./python/api.py
-        env:
         run: python ./python/api.py
           
       - name: commit files
