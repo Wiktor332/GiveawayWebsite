@@ -2,7 +2,8 @@ name: run ./python/api.py
 
 on:
   schedule:
-    - cron: '0 */22 * * *' # At 00:00 on Monday
+    # - cron: '0 */22 * * *' # At 00:00 on Monday
+    - cron: '*/5 * * * *' 
 
 jobs:
   build:
