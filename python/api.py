@@ -74,7 +74,7 @@ dd_one = json.loads(d_one)
 dd_xs = json.loads(d_xs)
 
 # Define the base directory
-base_directory = Path(r'.\python\data_json')
+base_directory = Path(r'./python/data_json')
 
 # Main
 data_pc = 'data_pc'
