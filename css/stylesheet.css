@@ -806,6 +806,4 @@ input[type="checkbox1"]:checked + label .link {
 
 .container-footer a {
   color: white;
-  /* text-decoration: none; */
-  /* Additional styling for link if needed */
 }

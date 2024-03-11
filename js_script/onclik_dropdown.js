@@ -113,18 +113,27 @@ menuFilter.addEventListener('click', event => {
 
   // Update selected filter text and filter cards
   selectedFilter.textContent = selectedListItem.textContent;
+
+  const cardsSection = document.querySelector(".cards-title");
+  if (cardsSection) {
+    cardsSection.scrollIntoView({ behavior: 'smooth'});
+  }
+
   filterCards(selectedListItem.textContent);
+
+
 });
 
 // Event listener for clicking on the dropdown (to close it)
 dropdownFilter.addEventListener('click', () => {
-  menuFilter.classList.toggle('active'); // Toggle visibility of the dropdown menu
+  menuFilter.classList.toggle('active'); 
 });
 
 // Function to reset the filter
 function resetFilter() {
   selectedFilter.textContent = 'Category'; // Reset selected text
   filterCards('All'); // Apply the default filter
+  window.scrollTo({ top: 0, behavior: 'smooth'});
 }
 
 window.addEventListener('load', resetFilter); // Reset filter on page load

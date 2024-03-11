@@ -101,15 +101,6 @@ function updateTitleHeader(newText) {
   }
 }
 
-// function displayWrapper_width() {
-//   const wrapper = document.querySelector(".wrapper");
-//   if (window.innerWidth < 1300) {
-//     wrapper.style.display = 'none'
-//   } else {
-//     wrapper.style.display = 'flex'
-//   }
-// } 
-
 // Initial fetch when the page loads
 fetchData_wrapper('your_path_here');
 // Function to load data based on URL parameter or default to PC data
@@ -145,11 +136,6 @@ function loadDataFromURL() {
 window.addEventListener('load', () => {
   loadDataFromURL();
 });
-
-// window.addEventListener('resize', () => {
-//   displayWrapper_width();
-// });
-
 
 // Iterate through dropdown elements
 const dds = document.querySelectorAll('.dropdown');
@@ -307,8 +293,6 @@ fetch(path)
     document.querySelector(".count").textContent = count; 
     str_nr = document.querySelector(".count").textContent
     let nr = parseInt(str_nr);
-    console.log("test objects:",nr);
-    console.log("type:", typeof(nr));
     wrapper = document.querySelector(".wrapper");
     if (nr > 3) {
       wrapper.style.display = "flex";
