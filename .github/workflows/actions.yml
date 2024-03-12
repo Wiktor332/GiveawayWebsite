@@ -6,9 +6,9 @@ on:
     # - cron: '*/5 * * * *'
   - cron: '0 */6 * * *'
 
-permissions: 
-  contents: read
-  pages: write
+# permissions: 
+#   contents: read
+#   pages: write
 
 
 jobs:
