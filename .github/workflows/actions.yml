@@ -3,8 +3,13 @@ name: run ./python/api.py
 on:
   schedule:
     # - cron: '0 */22 * * *' # Every 22 hours
-    # - cron: '*/5 * * * *'
-  - cron: '0 */6 * * *'
+    - cron: '*/5 * * * *'
+  # - cron: '0 */6 * * *'
+
+permissions: 
+  contents: read
+  pages: write
+
 
 jobs:
   build:
