@@ -1,6 +1,5 @@
 
 import requests
-import pandas as pd
 import json
 from pathlib import Path
 import os
@@ -75,7 +74,7 @@ dd_one = json.loads(d_one)
 dd_xs = json.loads(d_xs)
 
 # Define the base directory
-base_directory = Path(r'python\data_json')
+base_directory = Path(r'./python/data_json')
 
 # Main
 data_pc = 'data_pc'
@@ -115,9 +114,9 @@ data_xs = 'data_xs'
 jsonpath_xs = base_directory / (data_xs + ".json")
 jsonpath_xs.write_text(json.dumps(dd_xs, indent=4))
 
-path_ps4 = Path(r'python\data_json\data_ps4.json')
-path_ps5 = Path(r'python\data_json\data_ps5.json')
-output_path_ps = Path(r'python\data_json\data_playstation.json')
+path_ps4 = Path(r'python/data_json/data_ps4.json')
+path_ps5 = Path(r'python/data_json/data_ps5.json')
+output_path_ps = Path(r'python/data_json/data_playstation.json')
 
 def merge_playstation(path_ps4, path_ps5, output_path_ps):
     with open(path_ps4) as data_ps4:
@@ -134,9 +133,9 @@ def merge_playstation(path_ps4, path_ps5, output_path_ps):
 
 merge_playstation(path_ps4, path_ps5, output_path_ps)
 
-path_xbox_xs = Path(r'python\data_json\data_xs.json')
-path_xbox_one = Path(r'python\data_json\data_one.json')
-output_path_xbox = Path(r'python\data_json\data_xbox.json')
+path_xbox_xs = Path(r'python/data_json/data_xs.json')
+path_xbox_one = Path(r'python/data_json/data_one.json')
+output_path_xbox = Path(r'python/data_json/data_xbox.json')
 
 def merge_xbox(path_xbox_xs, path_xbox_one, output_path_xbox):
     with open(path_xbox_xs) as path_xbox_xs:
