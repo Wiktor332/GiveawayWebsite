@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, GOG, DRM-Free",
         "end_date": "2024-04-01 23:59:00",
-        "users": 4530,
+        "users": 4660,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/hammerting-gog-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/hammerting-gog-giveaway"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-04-04 23:59:00",
-        "users": 3800,
+        "users": 3810,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/islets-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/islets-epic-games-giveaway"
@@ -48,7 +48,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 2230,
+        "users": 2240,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/zero-king-beta-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/zero-king-beta-steam-key-giveaway"
@@ -66,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-04-13 23:59:00",
-        "users": 2720,
+        "users": 2730,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-sims-4-backyard-stuff-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-sims-4-backyard-stuff-steam-giveaway"
@@ -210,28 +210,10 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 6460,
+        "users": 6470,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-tanks-starter-pack-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-tanks-starter-pack-giveaway"
-    },
-    {
-        "id": 2678,
-        "title": "Dark Odyssey: Free Gift Pack Keys",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6575f41b53f96.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/6575f41b53f96.jpg",
-        "description": "Claim your free Gift Pack Key and unlock several in-game items for Dark Odyssey! Each pack unlocks Coins x200W, 2 Gears Scrolls, 10 Heirloom Diamond and 50 Blood Patch",
-        "instructions": "1. Login into your free MMOBomb account and click the button to unlock your key.\r\n2. Follow the giveaway instructions to redeem your key.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/dark-odyssey-free-gift-pack-keys",
-        "published_date": "2023-12-10 12:23:39",
-        "type": "DLC",
-        "platforms": "PC",
-        "end_date": "2024-03-31 23:59:00",
-        "users": 1050,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/dark-odyssey-free-gift-pack-keys",
-        "open_giveaway": "https://www.gamerpower.com/open/dark-odyssey-free-gift-pack-keys"
     },
     {
         "id": 2646,
@@ -336,7 +318,7 @@
         "type": "Early Access",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 3290,
+        "users": 3300,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/evercore-heroes-beta-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/evercore-heroes-beta-key-giveaway"
@@ -372,7 +354,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 2790,
+        "users": 2810,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/neverwinter-frayed-silken-cloak-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/neverwinter-frayed-silken-cloak-key-giveaway"
@@ -570,7 +552,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io",
         "end_date": "N/A",
-        "users": 11700,
+        "users": 11730,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/evolvedustry-itch-io-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/evolvedustry-itch-io-giveaway"
@@ -1308,7 +1290,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Nintendo Switch, Xbox 360, Android, iOS",
         "end_date": "N/A",
-        "users": 7020,
+        "users": 7030,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-vibrant-adventurers-volume-1-2-and-3",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-vibrant-adventurers-volume-1-2-and-3"
@@ -1416,7 +1398,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 71250,
+        "users": 71270,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warships-huge-bonuses-code",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-huge-bonuses-code"
@@ -1470,7 +1452,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 502770,
+        "users": 502800,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
@@ -1560,7 +1542,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 271640,
+        "users": 271710,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-nights-into-dreams-steam",
         "open_giveaway": "https://www.gamerpower.com/open/free-nights-into-dreams-steam"
@@ -1830,7 +1812,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch",
         "end_date": "N/A",
-        "users": 24560,
+        "users": 24570,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/warframe-free-promo-codes",
         "open_giveaway": "https://www.gamerpower.com/open/warframe-free-promo-codes"
