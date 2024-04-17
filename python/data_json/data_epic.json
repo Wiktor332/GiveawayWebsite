@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-04-18 23:59:00",
-        "users": 8330,
+        "users": 8600,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/ghostrunner-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/ghostrunner-epic-games-giveaway"
@@ -30,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 4220,
+        "users": 4310,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/paladins-golden-cache-chest-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/paladins-golden-cache-chest-key-giveaway"
@@ -48,28 +48,10 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 3870,
+        "users": 3890,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
-    },
-    {
-        "id": 2449,
-        "title": "Century: Age of Ashes Aldr\u00fcni Pack Key Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/64b6be804d64e.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/64b6be804d64e.jpg",
-        "description": "Score a free Century: Age of Ashes Aldr\u00fcni Pack key and unlock the Aldr\u00fcni Shrines Dragon and 300 Gems. Are you ready to rule the skies?",
-        "instructions": "1. Log in or register to your free Alienware Arena account.\r\n2. Click the button to unlock your key and follow the giveaway instructions.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/century-age-of-ashes-aldruni-pack-key-giveaway",
-        "published_date": "2023-07-18 12:32:00",
-        "type": "DLC",
-        "platforms": "PC, Steam, Epic Games Store, Xbox Series X|S, Xbox One, Android, iOS",
-        "end_date": "N/A",
-        "users": 4270,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/century-age-of-ashes-aldruni-pack-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/century-age-of-ashes-aldruni-pack-key-giveaway"
     },
     {
         "id": 2222,
