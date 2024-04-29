@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-05-02 23:59:00",
-        "users": 4470,
+        "users": 4800,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/industria-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/industria-epic-games-giveaway"
@@ -30,28 +30,10 @@
         "type": "Game",
         "platforms": "Epic Games Store",
         "end_date": "2024-05-02 23:59:00",
-        "users": 3890,
+        "users": 4250,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/lisa-the-definitive-edition-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/lisa-the-definitive-edition-epic-games-giveaway"
-    },
-    {
-        "id": 2754,
-        "title": "Paladins Golden Cache Chest Key Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/65b164c1d88ac.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/65b164c1d88ac.jpg",
-        "description": "Celebrate the latest Paladins update with free goodies by claiming your Paladins Golden Cache Chest (Steam or Epic Games Store)! Each chest contains Rare and Epic Cosmetics and Flair. Please note the key must be redeemed in-game!",
-        "instructions": "1. Login into your free Alienware account and click the button to unlock your key.\r\n2. Follow the giveaway instructions to redeem your key.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/paladins-golden-cache-chest-key-giveaway",
-        "published_date": "2024-04-08 20:10:07",
-        "type": "DLC",
-        "platforms": "PC, Steam, Epic Games Store",
-        "end_date": "N/A",
-        "users": 4940,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/paladins-golden-cache-chest-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/paladins-golden-cache-chest-key-giveaway"
     },
     {
         "id": 2468,
@@ -66,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 4000,
+        "users": 4010,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
@@ -84,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 6500,
+        "users": 6510,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/fangs-heroic-founder-s-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/fangs-heroic-founder-s-pack-key-giveaway"
