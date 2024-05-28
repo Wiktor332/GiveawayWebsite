@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Steam, GOG, Epic Games Store",
         "end_date": "2024-05-30 23:59:00",
-        "users": 31010,
+        "users": 31100,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/warhammer-40-000-gladius-relics-of-war-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/warhammer-40-000-gladius-relics-of-war-steam-giveaway"
@@ -30,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-11-23 23:59:00",
-        "users": 1710,
+        "users": 1720,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dave-the-diver-godzilla-content-pack-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dave-the-diver-godzilla-content-pack-steam-giveaway"
@@ -48,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-05-30 23:59:00",
-        "users": 950,
+        "users": 960,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warships-warhammer-40-000-gift-pack-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-warhammer-40-000-gift-pack-giveaway"
@@ -66,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "2024-06-15 23:59:00",
-        "users": 1590,
+        "users": 1600,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/pinball-fx-super-league-football-dlc-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/pinball-fx-super-league-football-dlc-giveaway"
@@ -102,28 +102,10 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 17450,
+        "users": 17490,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
-    },
-    {
-        "id": 2844,
-        "title": "Machinika: Museum (Steam) Giveaway",
-        "worth": "$7.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/66424c909cfe5.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/66424c909cfe5.jpg",
-        "description": "Claim Machinika: Museum for free on Steam! Machinika: Museum is a Sci-Fi atmospheric 3D puzzle game with mind-bending puzzles and cryptic alien machines! Check it out!",
-        "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That\u00b4s it! Have fun!",
-        "open_giveaway_url": "https://www.gamerpower.com/open/machinika-museum-steam-giveaway",
-        "published_date": "2024-05-13 13:23:28",
-        "type": "Game",
-        "platforms": "PC, Steam",
-        "end_date": "2024-05-27 23:59:00",
-        "users": 11790,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/machinika-museum-steam-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/machinika-museum-steam-giveaway"
     },
     {
         "id": 2835,
@@ -192,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 5350,
+        "users": 5360,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/exoprimal-alienware-decal-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/exoprimal-alienware-decal-steam-key-giveaway"
@@ -210,7 +192,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 4340,
+        "users": 4350,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
@@ -264,7 +246,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 6290,
+        "users": 6300,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warplanes-curtiss-xp-31-pack-steam",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warplanes-curtiss-xp-31-pack-steam"
@@ -408,7 +390,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 292240,
+        "users": 292250,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-nights-into-dreams-steam",
         "open_giveaway": "https://www.gamerpower.com/open/free-nights-into-dreams-steam"
