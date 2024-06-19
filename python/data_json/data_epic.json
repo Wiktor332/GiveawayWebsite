@@ -12,7 +12,7 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-06-20 23:59:00",
-        "users": 7860,
+        "users": 8000,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/idle-champions-of-the-forgotten-realms-100-value-add-on",
         "open_giveaway": "https://www.gamerpower.com/open/idle-champions-of-the-forgotten-realms-100-value-add-on"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-06-20 23:59:00",
-        "users": 6240,
+        "users": 6560,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/redout-2-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/redout-2-epic-games-giveaway"
@@ -48,28 +48,10 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 3170,
+        "users": 3200,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/fortnite-overclocked-combo-pack-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/fortnite-overclocked-combo-pack-giveaway"
-    },
-    {
-        "id": 2848,
-        "title": "Pinball FX - Super League Football (DLC) Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/664627d49d9b9.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/664627d49d9b9.jpg",
-        "description": "Download Pinball FX - Super League Football (DLC) for free via Steam (or Epic Games Store) and keep it forever. Please note this DLC requires the base game Pinball FX (free-to-play) to enjoy this content.",
-        "instructions": "1. Click the \"Get Loot\" button to visit the giveaway page.\r\n2. Download this DLC directly via Steam (or Epic Games Store) before the offer expires.\r\n3. Don\u00b4t forget to install the base game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/pinball-fx-super-league-football-dlc-giveaway",
-        "published_date": "2024-05-16 11:35:48",
-        "type": "DLC",
-        "platforms": "PC, Steam, Epic Games Store",
-        "end_date": "2024-06-15 23:59:00",
-        "users": 2040,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/pinball-fx-super-league-football-dlc-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/pinball-fx-super-league-football-dlc-giveaway"
     },
     {
         "id": 2468,
@@ -84,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 4590,
+        "users": 4600,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
