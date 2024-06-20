@@ -12,7 +12,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 1160,
+        "users": 1170,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/homeworld-3-emblem-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/homeworld-3-emblem-key-giveaway"
@@ -30,7 +30,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 4740,
+        "users": 4770,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/phantom-line-playtest-steam-keys",
         "open_giveaway": "https://www.gamerpower.com/open/phantom-line-playtest-steam-keys"
@@ -66,28 +66,10 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-06-20 23:59:00",
-        "users": 6560,
+        "users": 6590,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/redout-2-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/redout-2-epic-games-giveaway"
-    },
-    {
-        "id": 2872,
-        "title": "Forza Motorsport Porsche 963 Combo (Steam) Giveaway",
-        "worth": "$4.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/666735fb1c496.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/666735fb1c496.jpg",
-        "description": "Claim the Porsche 963 Combo for Forza Motorsport at no cost until June 19, 2024. Please note the base game Forza Motorsport is required to enjoy this DLC content.",
-        "instructions": "1. Click the \"Get Loot\" button to visit the giveaway page.\r\n2. Download this DLC directly via Steam before the offer expires.\r\n3. Don\u00b4t forget to install the base game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/forza-motorsport-porsche-963-combo-steam-giveaway",
-        "published_date": "2024-06-10 13:20:59",
-        "type": "DLC",
-        "platforms": "PC, Steam",
-        "end_date": "2024-06-19 23:59:00",
-        "users": 2940,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/forza-motorsport-porsche-963-combo-steam-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/forza-motorsport-porsche-963-combo-steam-giveaway"
     },
     {
         "id": 2871,
@@ -120,7 +102,7 @@
         "type": "Game",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 44270,
+        "users": 44310,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/black-desert-online-traveler-edition-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/black-desert-online-traveler-edition-key-giveaway"
@@ -138,7 +120,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "2024-07-01 23:59:00",
-        "users": 25920,
+        "users": 25960,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/tell-me-why-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/tell-me-why-steam-giveaway"
@@ -192,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 3200,
+        "users": 3210,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/fortnite-overclocked-combo-pack-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/fortnite-overclocked-combo-pack-giveaway"
@@ -228,7 +210,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 26200,
+        "users": 26240,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -300,7 +282,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 5480,
+        "users": 5490,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/zero-king-beta-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/zero-king-beta-steam-key-giveaway"
@@ -462,7 +444,7 @@
         "type": "Early Access",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 3580,
+        "users": 3590,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/evercore-heroes-beta-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/evercore-heroes-beta-key-giveaway"
@@ -750,7 +732,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 16280,
+        "users": 16290,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
@@ -840,7 +822,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 9540,
+        "users": 9550,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-peace-builders-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-peace-builders-dlc"
@@ -1308,7 +1290,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 75190,
+        "users": 75210,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warships-huge-bonuses-code",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-huge-bonuses-code"
@@ -1362,7 +1344,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 525800,
+        "users": 525810,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
@@ -1560,7 +1542,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 134850,
+        "users": 134860,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/payday-2-free-in-game-items-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/payday-2-free-in-game-items-giveaway"
@@ -1668,7 +1650,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 44340,
+        "users": 44350,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-rocket-league-codes",
         "open_giveaway": "https://www.gamerpower.com/open/free-rocket-league-codes"
@@ -1722,7 +1704,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 31160,
+        "users": 31170,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/farming-simulator-2017-free-horsch-agrovation-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/farming-simulator-2017-free-horsch-agrovation-dlc"
