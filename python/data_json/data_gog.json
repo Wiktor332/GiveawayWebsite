@@ -1,20 +1,4 @@
-[
-    {
-        "id": 4,
-        "title": "Get The Witcher: Enhanced Edition for FREE!",
-        "worth": "$9.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/5ec4fdb8dbe80.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/5ec4fdb8dbe80.jpg",
-        "description": "Starting today, all GOG users can grab a free copy of The Witcher: Enhanced Edition Director's Cut! You just need to follow the instructions below!",
-        "instructions": "1. Add <a href=\"https://www.gog.com/game/gwent_the_witcher_card_game\">Gwent</a> to your library on GOG\r\n2. Visit the <a href=\"https://www.gog.com/gwent-welcome-bonus\">giveaway page</a> and subscribe.\r\n3. Then go to <a href=\"https://www.gog.com/game/the_witcher\">The Witcher page</a> to unlock the game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free",
-        "published_date": "2020-12-04 16:51:52",
-        "type": "Game",
-        "platforms": "PC, GOG",
-        "end_date": "N/A",
-        "users": 536220,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
-        "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
-    }
-]
+{
+    "status": 0,
+    "status_message": "No active giveaways available at the moment, please try again later."
+}
