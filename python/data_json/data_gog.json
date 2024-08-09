@@ -1,23 +1,5 @@
 [
     {
-        "id": 2908,
-        "title": "Intravenous (GOG) Giveaway",
-        "worth": "$19.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/66b4c628efce9.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/66b4c628efce9.jpg",
-        "description": "Today, you have a new opportunity to grab Intravenous for free, available now on GOG! Plus it\u00b4s DRM free!",
-        "instructions": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/intravenous-gog-giveaway",
-        "published_date": "2024-08-08 09:20:41",
-        "type": "Game",
-        "platforms": "PC, GOG, DRM-Free",
-        "end_date": "2024-08-08 23:59:00",
-        "users": 2880,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/intravenous-gog-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/intravenous-gog-giveaway"
-    },
-    {
         "id": 4,
         "title": "Get The Witcher: Enhanced Edition for FREE!",
         "worth": "$9.99",
@@ -30,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 543290,
+        "users": 543650,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
