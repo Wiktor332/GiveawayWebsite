@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-09-12 23:59:00",
-        "users": 4150,
+        "users": 5020,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/football-manager-2024-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/football-manager-2024-epic-games-giveaway"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-09-12 23:59:00",
-        "users": 5330,
+        "users": 6310,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/sniper-ghost-warrior-contracts-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/sniper-ghost-warrior-contracts-epic-games-giveaway"
@@ -48,27 +48,9 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 5250,
+        "users": 5260,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
-    },
-    {
-        "id": 2222,
-        "title": "Fangs Heroic Founder's Pack Key Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/63d01ca213e32.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/63d01ca213e32.jpg",
-        "description": "Score Fangs Heroic Founder's Pack Key and unlock lots of in-game items for Fangs including 14 Heroes, 1,000 Realm Gold, Season Zero Battle Pass and much more!",
-        "instructions": "1. Login into your free Alienware Arena account and click the button to unlock your key.\r\n2. Follow the giveaway instructions to redeem your key (Please note the key must be redeemed in-game).",
-        "open_giveaway_url": "https://www.gamerpower.com/open/fangs-heroic-founder-s-pack-key-giveaway",
-        "published_date": "2023-01-24 19:00:02",
-        "type": "DLC",
-        "platforms": "PC, Steam, Epic Games Store",
-        "end_date": "N/A",
-        "users": 7320,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/fangs-heroic-founder-s-pack-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/fangs-heroic-founder-s-pack-key-giveaway"
     }
 ]
