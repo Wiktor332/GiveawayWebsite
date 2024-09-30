@@ -12,28 +12,10 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-10-03 23:59:00",
-        "users": 6400,
+        "users": 6440,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-spirit-and-the-mouse-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-spirit-and-the-mouse-epic-games-giveaway"
-    },
-    {
-        "id": 2950,
-        "title": "Hero of the Kingdom: The Lost Tales 2 Giveaway",
-        "worth": "$6.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/66f33cebac3c5.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/66f33cebac3c5.jpg",
-        "description": "Ready to save a city? Grab Hero of the Kingdom: The Lost Tales 2 for FREE on the Microsoft Store today! Hero of the Kingdom: The Lost Tales 2 is a old-school adventure RPG with point-and-click exploration and an isometric view. Download now and let the kingdom's fate rest in your incredibly capable hands!",
-        "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Login into your Microsoft Store account.\r\n3. Click the \"GET\" button to add the game to your library",
-        "open_giveaway_url": "https://www.gamerpower.com/open/hero-of-the-kingdom-the-lost-tales-2-giveaway",
-        "published_date": "2024-09-24 18:27:55",
-        "type": "Game",
-        "platforms": "PC",
-        "end_date": "2024-09-29 23:59:00",
-        "users": 3650,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/hero-of-the-kingdom-the-lost-tales-2-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/hero-of-the-kingdom-the-lost-tales-2-giveaway"
     },
     {
         "id": 2949,
@@ -48,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 1310,
+        "users": 1320,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/magic-the-gathering-arena-dinosaur-deck-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/magic-the-gathering-arena-dinosaur-deck-key-giveaway"
@@ -66,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "2024-10-21 23:59:00",
-        "users": 1540,
+        "users": 1550,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/elite-dangerous-ruby-anniversary-decal-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/elite-dangerous-ruby-anniversary-decal-giveaway"
@@ -120,7 +102,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "2024-11-10 23:59:00",
-        "users": 3150,
+        "users": 3160,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warships-9th-birthday-special-gift-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-9th-birthday-special-gift-giveaway"
@@ -300,7 +282,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 3600,
+        "users": 3620,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/star-trek-online-borg-assimilated-plasma-weapon-bundle-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/star-trek-online-borg-assimilated-plasma-weapon-bundle-key-giveaway"
@@ -336,7 +318,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 60300,
+        "users": 60350,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -354,7 +336,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 4970,
+        "users": 4980,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/everspace-2-decal-dlc-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/everspace-2-decal-dlc-steam-key-giveaway"
@@ -480,7 +462,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 9590,
+        "users": 9600,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-emblem-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-emblem-key-giveaway"
@@ -534,7 +516,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 5530,
+        "users": 5540,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
@@ -642,7 +624,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 6220,
+        "users": 6230,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/age-of-wonders-4-special-godir-helmet-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/age-of-wonders-4-special-godir-helmet-steam-key-giveaway"
@@ -1290,7 +1272,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 557080,
+        "users": 557130,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
@@ -1434,7 +1416,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2020-05-31 23:59:00",
-        "users": 10810,
+        "users": 10820,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/super-circuit-breakers-payne",
         "open_giveaway": "https://www.gamerpower.com/open/super-circuit-breakers-payne"
@@ -1452,7 +1434,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 17940,
+        "users": 17950,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/battle-for-the-galaxy-ice-bastion-pack-steam-keys",
         "open_giveaway": "https://www.gamerpower.com/open/battle-for-the-galaxy-ice-bastion-pack-steam-keys"
@@ -1470,7 +1452,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 140250,
+        "users": 140270,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/payday-2-free-in-game-items-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/payday-2-free-in-game-items-giveaway"
