@@ -1,5 +1,23 @@
 [
     {
+        "id": 2957,
+        "title": "Bear and Breakfast (Epic Games) Giveaway",
+        "worth": "$19.99",
+        "thumbnail": "https://www.gamerpower.com/offers/1/66feb18e53894.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/66feb18e53894.jpg",
+        "description": "Ever wanted to run a bed and breakfast? Well, now you can! But there\u2019s just one tiny detail - you have to be a bear! Grab Bear and Breakfast for free on the Epic Games Store and start building your cozy, money-making B+B empire - because who wouldn't want to run a business as a bear?",
+        "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library",
+        "open_giveaway_url": "https://www.gamerpower.com/open/bear-and-breakfast-epic-games-giveaway",
+        "published_date": "2024-10-03 11:00:30",
+        "type": "Game",
+        "platforms": "PC, Epic Games Store",
+        "end_date": "2024-10-10 23:59:00",
+        "users": 2150,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/bear-and-breakfast-epic-games-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/bear-and-breakfast-epic-games-giveaway"
+    },
+    {
         "id": 2953,
         "title": "SMITE 2: Free Alpha Codes (Epic Games)",
         "worth": "N/A",
@@ -12,28 +30,10 @@
         "type": "Early Access",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 1300,
+        "users": 1550,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/smite-2-free-alpha-codes-epic-games",
         "open_giveaway": "https://www.gamerpower.com/open/smite-2-free-alpha-codes-epic-games"
-    },
-    {
-        "id": 2952,
-        "title": "The Spirit and the Mouse (Epic Games) Giveaway",
-        "worth": "$19.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/66f5773c11e47.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/66f5773c11e47.jpg",
-        "description": "Ever wanted to be a tiny mouse? No? Well, now\u2019s your chance anyway! This week, the Epic Games Store is giving away The Spirit and the Mouse! It\u2019s a charming narrative adventure where you scurry around the cozy French village of Sainte-et-Claire as - yep, you guessed it - a mouse. That\u2019s right, you\u2019ll be solving problems, playing mini-games, and generally living your best mouse life!",
-        "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library",
-        "open_giveaway_url": "https://www.gamerpower.com/open/the-spirit-and-the-mouse-epic-games-giveaway",
-        "published_date": "2024-09-26 11:01:16",
-        "type": "Game",
-        "platforms": "PC, Epic Games Store",
-        "end_date": "2024-10-03 23:59:00",
-        "users": 7750,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/the-spirit-and-the-mouse-epic-games-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/the-spirit-and-the-mouse-epic-games-giveaway"
     },
     {
         "id": 2468,
@@ -48,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 5560,
+        "users": 5570,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
