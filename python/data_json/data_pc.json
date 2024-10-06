@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-10-10 23:59:00",
-        "users": 4740,
+        "users": 4840,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/bear-and-breakfast-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/bear-and-breakfast-epic-games-giveaway"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC, GOG, DRM-Free",
         "end_date": "2024-10-06 23:59:00",
-        "users": 4880,
+        "users": 4930,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/whispering-willows-gog-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/whispering-willows-gog-giveaway"
@@ -48,7 +48,7 @@
         "type": "Early Access",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 1740,
+        "users": 1750,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/smite-2-free-alpha-codes-epic-games",
         "open_giveaway": "https://www.gamerpower.com/open/smite-2-free-alpha-codes-epic-games"
@@ -66,7 +66,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 2960,
+        "users": 3000,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/possessed-indiegala-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/possessed-indiegala-giveaway"
@@ -84,7 +84,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 10120,
+        "users": 10130,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/gravity-den",
         "open_giveaway": "https://www.gamerpower.com/open/gravity-den"
@@ -120,7 +120,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 2970,
+        "users": 2980,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-zombie-smasher-indiegala-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-zombie-smasher-indiegala-giveaway"
@@ -138,7 +138,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 17880,
+        "users": 17920,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/extreme-racing-on-highway",
         "open_giveaway": "https://www.gamerpower.com/open/extreme-racing-on-highway"
@@ -174,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 640,
+        "users": 650,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/magic-the-gathering-arena-teysa-deck-sleeve-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/magic-the-gathering-arena-teysa-deck-sleeve-key-giveaway"
@@ -234,24 +234,6 @@
         "open_giveaway": "https://www.gamerpower.com/open/where-s-my-helmet-indiegala-giveaway"
     },
     {
-        "id": 1943,
-        "title": "World of Tanks - High Voltage Pack (DLC)",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6331eead9d059.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/6331eead9d059.jpg",
-        "description": "Claim your free World of Tanks - High Voltage Pack DLC via Steam and unlock a free package to decorate your favorite vehicles with eye-catching customization elements. Please note this free DLC is available until October 4th, 2024.",
-        "instructions": "1. Download this DLC directly via Steam before October 4th, 2024.\r\n2. Please note the base game World of Tanks (free-to-play) is required to enjoy this DLC content.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/world-of-tanks-high-voltage-pack-dlc",
-        "published_date": "2024-09-19 10:34:10",
-        "type": "DLC",
-        "platforms": "PC, Steam",
-        "end_date": "2024-10-04 23:59:59",
-        "users": 2420,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/world-of-tanks-high-voltage-pack-dlc",
-        "open_giveaway": "https://www.gamerpower.com/open/world-of-tanks-high-voltage-pack-dlc"
-    },
-    {
         "id": 2943,
         "title": "Train Sim World 5: Free Starter Pack",
         "worth": "N/A",
@@ -300,7 +282,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 4130,
+        "users": 4140,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dashy-square-indiegala-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dashy-square-indiegala-giveaway"
@@ -516,7 +498,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 61850,
+        "users": 61870,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -660,7 +642,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 9640,
+        "users": 9650,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-emblem-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-emblem-key-giveaway"
@@ -1470,7 +1452,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 558770,
+        "users": 558790,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
