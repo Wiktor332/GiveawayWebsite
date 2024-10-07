@@ -12,28 +12,10 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-10-10 23:59:00",
-        "users": 5480,
+        "users": 5950,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/bear-and-breakfast-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/bear-and-breakfast-epic-games-giveaway"
-    },
-    {
-        "id": 2956,
-        "title": "Whispering Willows (GOG) Giveaway",
-        "worth": "$9.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/66fe9cabd7871.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/66fe9cabd7871.jpg",
-        "description": "Don\u2019t miss out on this adventure! Whispering Willows is up for grabs FREE on GOG! Dive into a beautifully hand-drawn 2D world full of puzzles, mystery, and not-so-friendly ghosts. Grab it while it\u2019s hot, and see if you can unravel the secrets...",
-        "instructions": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/whispering-willows-gog-giveaway",
-        "published_date": "2024-10-03 09:31:23",
-        "type": "Game",
-        "platforms": "PC, GOG, DRM-Free",
-        "end_date": "2024-10-06 23:59:00",
-        "users": 5480,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/whispering-willows-gog-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/whispering-willows-gog-giveaway"
     },
     {
         "id": 2953,
@@ -48,7 +30,7 @@
         "type": "Early Access",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 1870,
+        "users": 2000,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/smite-2-free-alpha-codes-epic-games",
         "open_giveaway": "https://www.gamerpower.com/open/smite-2-free-alpha-codes-epic-games"
@@ -66,7 +48,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 3340,
+        "users": 3590,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/possessed-indiegala-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/possessed-indiegala-giveaway"
@@ -84,7 +66,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 10140,
+        "users": 10240,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/gravity-den",
         "open_giveaway": "https://www.gamerpower.com/open/gravity-den"
@@ -102,7 +84,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 6770,
+        "users": 6810,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/rex-indiegala-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/rex-indiegala-giveaway"
@@ -120,7 +102,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 3020,
+        "users": 3040,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-zombie-smasher-indiegala-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-zombie-smasher-indiegala-giveaway"
@@ -138,7 +120,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 18050,
+        "users": 18100,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/extreme-racing-on-highway",
         "open_giveaway": "https://www.gamerpower.com/open/extreme-racing-on-highway"
@@ -156,7 +138,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 9800,
+        "users": 9830,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/qvabllock",
         "open_giveaway": "https://www.gamerpower.com/open/qvabllock"
@@ -174,7 +156,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 660,
+        "users": 700,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/magic-the-gathering-arena-teysa-deck-sleeve-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/magic-the-gathering-arena-teysa-deck-sleeve-key-giveaway"
@@ -192,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 1570,
+        "users": 1600,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/magic-the-gathering-arena-dinosaur-deck-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/magic-the-gathering-arena-dinosaur-deck-key-giveaway"
@@ -216,24 +198,6 @@
         "open_giveaway": "https://www.gamerpower.com/open/elite-dangerous-ruby-anniversary-decal-giveaway"
     },
     {
-        "id": 2786,
-        "title": "Where's My Helmet? (IndieGala) Giveaway",
-        "worth": "$8.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/65da619d4095b.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/65da619d4095b.jpg",
-        "description": "Download Where's My Helmet? for free via IndieGala! \"Where's my Helmet?\" is a 2D Nordic theme platform game inspired by the old classics. Check it out!",
-        "instructions": "1. Login into your free IndieGala account.\r\n2. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n3. Go to \"My Library\" to find your game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/where-s-my-helmet-indiegala-giveaway",
-        "published_date": "2024-09-21 10:19:06",
-        "type": "Game",
-        "platforms": "PC, DRM-Free",
-        "end_date": "N/A",
-        "users": 7000,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/where-s-my-helmet-indiegala-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/where-s-my-helmet-indiegala-giveaway"
-    },
-    {
         "id": 2943,
         "title": "Train Sim World 5: Free Starter Pack",
         "worth": "N/A",
@@ -246,7 +210,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-10-17 23:59:00",
-        "users": 3150,
+        "users": 3190,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/train-sim-world-5-free-starter-pack",
         "open_giveaway": "https://www.gamerpower.com/open/train-sim-world-5-free-starter-pack"
@@ -268,24 +232,6 @@
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warships-9th-birthday-special-gift-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-9th-birthday-special-gift-giveaway"
-    },
-    {
-        "id": 2768,
-        "title": "Dashy Square (IndieGala) Giveaway",
-        "worth": "$2.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/65c677d8a8f3c.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/65c677d8a8f3c.jpg",
-        "description": "Download Dashy Square for free on IndieGala! Dashy Square is a rhythm-based game with lots of soundtracks!",
-        "instructions": "1. Login into your free IndieGala account.\r\n2. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n3. Go to \"My Library\" to find your game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/dashy-square-indiegala-giveaway",
-        "published_date": "2024-09-13 09:49:12",
-        "type": "Game",
-        "platforms": "PC, DRM-Free",
-        "end_date": "N/A",
-        "users": 4160,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/dashy-square-indiegala-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/dashy-square-indiegala-giveaway"
     },
     {
         "id": 2819,
@@ -318,7 +264,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 6180,
+        "users": 6190,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-elder-scrolls-online-experience-scroll-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-elder-scrolls-online-experience-scroll-key-giveaway"
@@ -444,7 +390,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 3310,
+        "users": 3340,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway"
@@ -462,7 +408,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 3770,
+        "users": 3780,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/star-trek-online-borg-assimilated-plasma-weapon-bundle-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/star-trek-online-borg-assimilated-plasma-weapon-bundle-key-giveaway"
@@ -480,7 +426,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-11-23 23:59:00",
-        "users": 6200,
+        "users": 6230,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dave-the-diver-godzilla-content-pack-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dave-the-diver-godzilla-content-pack-steam-giveaway"
@@ -498,7 +444,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 62200,
+        "users": 62440,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -516,7 +462,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 5050,
+        "users": 5060,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/everspace-2-decal-dlc-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/everspace-2-decal-dlc-steam-key-giveaway"
@@ -534,7 +480,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 7750,
+        "users": 7760,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/zero-king-beta-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/zero-king-beta-steam-key-giveaway"
@@ -588,7 +534,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 7370,
+        "users": 7380,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-tanks-starter-pack-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-tanks-starter-pack-giveaway"
@@ -624,7 +570,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 2260,
+        "users": 2270,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/pirate-souls-in-game-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/pirate-souls-in-game-pack-key-giveaway"
@@ -642,7 +588,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 9650,
+        "users": 9660,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-emblem-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-emblem-key-giveaway"
@@ -660,7 +606,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 6460,
+        "users": 6470,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/exoprimal-alienware-decal-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/exoprimal-alienware-decal-steam-key-giveaway"
@@ -732,7 +678,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 1660,
+        "users": 1670,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/kards-starter-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/kards-starter-pack-key-giveaway"
@@ -804,7 +750,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 6280,
+        "users": 6310,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/age-of-wonders-4-special-godir-helmet-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/age-of-wonders-4-special-godir-helmet-steam-key-giveaway"
@@ -840,7 +786,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 3170,
+        "users": 3180,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dinogen-online-survival-bundle-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dinogen-online-survival-bundle-key-giveaway"
@@ -876,7 +822,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2023-02-22 23:59:00",
-        "users": 8110,
+        "users": 8120,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-tanks-free-supplies-pack-steam",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-tanks-free-supplies-pack-steam"
@@ -894,7 +840,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 7020,
+        "users": 7030,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warplanes-curtiss-xp-31-pack-steam",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warplanes-curtiss-xp-31-pack-steam"
@@ -912,7 +858,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 18690,
+        "users": 18700,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
@@ -930,7 +876,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 19680,
+        "users": 19690,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/ghost-of-tomorrow-chapter-1",
         "open_giveaway": "https://www.gamerpower.com/open/ghost-of-tomorrow-chapter-1"
@@ -948,7 +894,7 @@
         "type": "DLC",
         "platforms": "PC, Android, iOS",
         "end_date": "N/A",
-        "users": 4470,
+        "users": 4480,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/king-of-avalon-code",
         "open_giveaway": "https://www.gamerpower.com/open/king-of-avalon-code"
@@ -966,7 +912,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One, Nintendo Switch",
         "end_date": "N/A",
-        "users": 24460,
+        "users": 24470,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dead-by-daylight-codes",
         "open_giveaway": "https://www.gamerpower.com/open/dead-by-daylight-codes"
@@ -1056,7 +1002,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One, Nintendo Switch",
         "end_date": "N/A",
-        "users": 12070,
+        "users": 12080,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/rocket-league-live-bundle-pack-code",
         "open_giveaway": "https://www.gamerpower.com/open/rocket-league-live-bundle-pack-code"
@@ -1074,7 +1020,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 22460,
+        "users": 22500,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dora-diginoid-metroidvania-sci-fi-adventure-game",
         "open_giveaway": "https://www.gamerpower.com/open/dora-diginoid-metroidvania-sci-fi-adventure-game"
@@ -1146,7 +1092,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 9450,
+        "users": 9460,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/thunder-league-online-free-points-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/thunder-league-online-free-points-key-giveaway"
@@ -1164,7 +1110,7 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 11000,
+        "users": 11010,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dying-light-2-wyvern-paraglider-skin",
         "open_giveaway": "https://www.gamerpower.com/open/dying-light-2-wyvern-paraglider-skin"
@@ -1218,7 +1164,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 20210,
+        "users": 20230,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dead-frontier-2-survivor-starter-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dead-frontier-2-survivor-starter-pack-key-giveaway"
@@ -1236,7 +1182,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 6810,
+        "users": 6820,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/smite-3-day-account-booster-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/smite-3-day-account-booster-key-giveaway"
@@ -1254,7 +1200,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 6100,
+        "users": 6110,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/storybook-brawl-100-gems-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/storybook-brawl-100-gems-key-giveaway"
@@ -1326,7 +1272,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 22460,
+        "users": 22470,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/lightforce-ninja",
         "open_giveaway": "https://www.gamerpower.com/open/lightforce-ninja"
@@ -1452,7 +1398,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 559050,
+        "users": 559220,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
@@ -1488,7 +1434,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 7070,
+        "users": 7080,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/talion-premium-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/talion-premium-pack-key-giveaway"
@@ -1578,7 +1524,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Android, iOS",
         "end_date": "N/A",
-        "users": 14060,
+        "users": 14070,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-bomb-bots-arena-gift-pack-keys",
         "open_giveaway": "https://www.gamerpower.com/open/free-bomb-bots-arena-gift-pack-keys"
@@ -1632,7 +1578,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 140620,
+        "users": 140650,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/payday-2-free-in-game-items-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/payday-2-free-in-game-items-giveaway"
@@ -1686,7 +1632,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 13550,
+        "users": 13560,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/overstep-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/overstep-skin-key-giveaway"
