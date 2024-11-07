@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 12690,
+        "users": 12900,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dangerous-lands-magic-and-rpg",
         "open_giveaway": "https://www.gamerpower.com/open/dangerous-lands-magic-and-rpg"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC",
         "end_date": "2024-11-11 23:59:00",
-        "users": 4780,
+        "users": 4810,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/hero-of-the-kingdom-the-lost-tales-2-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/hero-of-the-kingdom-the-lost-tales-2-giveaway"
@@ -48,7 +48,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-11-07 23:59:00",
-        "users": 7470,
+        "users": 7490,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/witch-it-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/witch-it-epic-games-giveaway"
@@ -66,7 +66,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2024-11-07 23:59:00",
-        "users": 11660,
+        "users": 11740,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/ghostwire-tokyo-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/ghostwire-tokyo-epic-games-giveaway"
@@ -88,24 +88,6 @@
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/christmas-night-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/christmas-night-giveaway"
-    },
-    {
-        "id": 2975,
-        "title": "UNLOVED Steam Key Giveaway",
-        "worth": "$3.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6720f92f825b3.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/6720f92f825b3.jpg",
-        "description": "Fanatical is giving away free Steam keys for UNLOVED, a indie survival FPS based on a mod for Doom 2. Check it out!",
-        "instructions": "1. Login into your Fanatical account\r\n2. Subscribe to their newsletter to unlock your Steam key.\r\n3. Redeem your Steam key on Steam.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/unloved-steam-key-giveaway",
-        "published_date": "2024-10-29 11:03:11",
-        "type": "Game",
-        "platforms": "PC, Steam",
-        "end_date": "2024-11-05 23:59:00",
-        "users": 16440,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/unloved-steam-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/unloved-steam-key-giveaway"
     },
     {
         "id": 2972,
@@ -192,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC, Android, iOS",
         "end_date": "2024-11-30 23:59:00",
-        "users": 1530,
+        "users": 1540,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/viking-rise-gift-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/viking-rise-gift-pack-key-giveaway"
@@ -516,7 +498,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 75700,
+        "users": 75740,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -984,7 +966,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One, Nintendo Switch",
         "end_date": "N/A",
-        "users": 25030,
+        "users": 25040,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dead-by-daylight-codes",
         "open_giveaway": "https://www.gamerpower.com/open/dead-by-daylight-codes"
@@ -1470,7 +1452,7 @@
         "type": "Game",
         "platforms": "PC, GOG",
         "end_date": "N/A",
-        "users": 567430,
+        "users": 567450,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/get-the-witcher-enhanced-edition-for-free",
         "open_giveaway": "https://www.gamerpower.com/open/get-the-witcher-enhanced-edition-for-free"
