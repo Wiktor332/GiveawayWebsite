@@ -1,20 +1,4 @@
-[
-    {
-        "id": 2997,
-        "title": "Oaken (GOG) Giveaway",
-        "worth": "$9.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6749d0a683d40.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/6749d0a683d40.jpg",
-        "description": "Craving a turn-based tactical roguelike with a sprinkle of magic? GOG's got your back, for zero bucks! Dive into Oaken, a quirky turn-based roguelike set in a world of spirits and trees. Don\u00b4t miss it!",
-        "instructions": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/oaken-gog-giveaway",
-        "published_date": "2024-11-29 09:33:10",
-        "type": "Game",
-        "platforms": "PC, GOG",
-        "end_date": "2024-12-02 23:59:00",
-        "users": 8100,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/oaken-gog-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/oaken-gog-giveaway"
-    }
-]
+{
+    "status": 0,
+    "status_message": "No active giveaways available at the moment, please try again later."
+}
