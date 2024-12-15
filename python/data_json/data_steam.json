@@ -12,7 +12,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-12-19 23:59:00",
-        "users": 1040,
+        "users": 1060,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/helldivers-2-tr-117-alpha-commander-armor-set",
         "open_giveaway": "https://www.gamerpower.com/open/helldivers-2-tr-117-alpha-commander-armor-set"
@@ -30,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2024-12-19 23:59:00",
-        "users": 1720,
+        "users": 1740,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/no-man-s-sky-starborn-phoenix-ship-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/no-man-s-sky-starborn-phoenix-ship-steam-giveaway"
@@ -48,28 +48,10 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "2024-12-18 23:59:00",
-        "users": 16150,
+        "users": 16180,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/pankapu-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/pankapu-steam-giveaway"
-    },
-    {
-        "id": 3006,
-        "title": "King of Meat Closed Alpha Steam Key Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/6751ea6081468.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/6751ea6081468.jpg",
-        "description": "Claim your free King of Meat Closed Alpha Steam Key and be one of the first to experience the game! Join the Closed Beta Test, available now through December 14, 2024. Don't miss out!",
-        "instructions": "1. Click the button to visit the giveaway page.\n2. Login into your free MMOBomb account and click the button to unlock your key.\n3. Launch the Steam client and click the Games menu option.\n4. Choose \"activate a Product on Steam\" to redeem your Steam key.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/king-of-meat-closed-alpha-steam-key-giveaway",
-        "published_date": "2024-12-05 13:01:04",
-        "type": "Early Access",
-        "platforms": "PC, Steam",
-        "end_date": "2024-12-14 23:59:00",
-        "users": 2370,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/king-of-meat-closed-alpha-steam-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/king-of-meat-closed-alpha-steam-key-giveaway"
     },
     {
         "id": 3000,
@@ -102,7 +84,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 90080,
+        "users": 90160,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -120,7 +102,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 6580,
+        "users": 6590,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/everspace-2-decal-dlc-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/everspace-2-decal-dlc-steam-key-giveaway"
@@ -174,7 +156,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 6430,
+        "users": 6440,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
@@ -372,7 +354,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 8500,
+        "users": 8510,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/domo-summer-fun-dlc-steam-keys",
         "open_giveaway": "https://www.gamerpower.com/open/domo-summer-fun-dlc-steam-keys"
