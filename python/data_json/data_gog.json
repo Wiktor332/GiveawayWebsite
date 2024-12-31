@@ -1,4 +1,20 @@
-{
-    "status": 0,
-    "status_message": "No active giveaways available at the moment, please try again later."
-}
+[
+    {
+        "id": 3048,
+        "title": "Vambrace: Cold Soul (GOG) Giveaway",
+        "worth": "$24.99",
+        "thumbnail": "https://www.gamerpower.com/offers/1/67740064bb08c.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/67740064bb08c.jpg",
+        "description": "Ready for an epic fantasy adventure? Claim Vambrace: Cold Soul for free via GOG! Vambrace: Cold Soul is a beautiful story-driven roguelite game with memorable characters and brutal challenges. Check it out!",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n3. Scroll down until you find the game banner.\r\n4. Click the \"Get it Free\" button and login into your GOG account to unlock the game.",
+        "open_giveaway_url": "https://www.gamerpower.com/open/vambrace-cold-soul-gog-giveaway",
+        "published_date": "2024-12-31 09:32:04",
+        "type": "Game",
+        "platforms": "PC, GOG, DRM-Free",
+        "end_date": "2025-01-03 23:59:00",
+        "users": 4900,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/vambrace-cold-soul-gog-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/vambrace-cold-soul-gog-giveaway"
+    }
+]
