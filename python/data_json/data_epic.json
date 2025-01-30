@@ -1,5 +1,23 @@
 [
     {
+        "id": 3071,
+        "title": "Undying (Epic Games) Giveaway",
+        "worth": "$16.79",
+        "thumbnail": "https://www.gamerpower.com/offers/1/679ba216e5550.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/679ba216e5550.jpg",
+        "description": "Hey, are you ready for the zombie apocalypse? If not, you can start your training by playing the game Undying, which you can get for free on the Epic Games Store. Don't miss this amazing game.",
+        "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library",
+        "open_giveaway_url": "https://www.gamerpower.com/open/undying-epic-games-giveaway",
+        "published_date": "2025-01-30 11:00:22",
+        "type": "Game",
+        "platforms": "PC, Epic Games Store",
+        "end_date": "2025-02-06 23:59:00",
+        "users": 3310,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/undying-epic-games-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/undying-epic-games-giveaway"
+    },
+    {
         "id": 3068,
         "title": "Dying Light: 10th Anniversary Bundle (Epic Games) Giveaway",
         "worth": "N/A",
@@ -12,28 +30,10 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 2450,
+        "users": 2860,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dying-light-10th-anniversary-bundle-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dying-light-10th-anniversary-bundle-epic-games-giveaway"
-    },
-    {
-        "id": 3063,
-        "title": "Behind the Frame: The Finest Scenery (Epic Games) Giveaway",
-        "worth": "$12.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/679267894d667.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/679267894d667.jpg",
-        "description": "Unleash your artistic side with this giveaway! Score Behind the Frame: The Finest Scenery for free via Epic Games Store! Behind the Frame: The Finest Scenery is a beautiful puzzle game where you use brush strokes to complete puzzles.",
-        "instructions": "1. Click the \"Get Giveaway\" button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library",
-        "open_giveaway_url": "https://www.gamerpower.com/open/behind-the-frame-the-finest-scenery-epic-games-giveaway",
-        "published_date": "2025-01-23 11:00:09",
-        "type": "Game",
-        "platforms": "PC, Epic Games Store",
-        "end_date": "2025-01-30 23:59:00",
-        "users": 8950,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/behind-the-frame-the-finest-scenery-epic-games-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/behind-the-frame-the-finest-scenery-epic-games-giveaway"
     },
     {
         "id": 2468,
@@ -48,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store",
         "end_date": "N/A",
-        "users": 7960,
+        "users": 8010,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
