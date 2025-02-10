@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2025-02-13 23:59:00",
-        "users": 9760,
+        "users": 10540,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/humankind-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/humankind-epic-games-giveaway"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2025-02-13 23:59:59",
-        "users": 11360,
+        "users": 11930,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/beyond-blue-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/beyond-blue-epic-games-giveaway"
@@ -48,27 +48,9 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store",
         "end_date": "N/A",
-        "users": 4750,
+        "users": 4790,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dying-light-10th-anniversary-bundle-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dying-light-10th-anniversary-bundle-epic-games-giveaway"
-    },
-    {
-        "id": 2468,
-        "title": "Divine Knockout Serious Business Hercules Skin Key Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/64c936c5387fe.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/64c936c5387fe.jpg",
-        "description": "Claim your free Divine Knockout Skin Key and unlock the Serious Business Skin for Hercules! Please note the base game Divine Knockout (free-to-play) is required to enjoy this add-on content.",
-        "instructions": "1. Log in or register to your free Alienware Arena account.\r\n2. Click the button to unlock your key and follow the giveaway instructions.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway",
-        "published_date": "2023-08-01 12:45:57",
-        "type": "DLC",
-        "platforms": "PC, Steam, Epic Games Store",
-        "end_date": "N/A",
-        "users": 8420,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/divine-knockout-serious-business-hercules-skin-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/divine-knockout-serious-business-hercules-skin-key-giveaway"
     }
 ]
