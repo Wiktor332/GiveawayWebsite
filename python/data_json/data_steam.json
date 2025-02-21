@@ -1,5 +1,41 @@
 [
     {
+        "id": 3093,
+        "title": "Golden Light (Steam) Giveaway",
+        "worth": "$19.99",
+        "thumbnail": "https://www.gamerpower.com/offers/1/67b8c408e1789.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/67b8c408e1789.jpg",
+        "description": "Score Golden Light for free via Steam! Golden Light is a survival FPS with roguelike features. Check it out!",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download directly via Steam store before the offer expires.\r\n3. That\u00b4s it! Enjoy!",
+        "open_giveaway_url": "https://www.gamerpower.com/open/golden-light-steam-giveaway",
+        "published_date": "2025-02-21 13:20:56",
+        "type": "Game",
+        "platforms": "PC, Steam",
+        "end_date": "2025-02-24 23:59:00",
+        "users": 3550,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/golden-light-steam-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/golden-light-steam-giveaway"
+    },
+    {
+        "id": 3092,
+        "title": "World of Warships: Command the Seas with Mutsu! (Steam) Giveaway",
+        "worth": "N/A",
+        "thumbnail": "https://www.gamerpower.com/offers/1/67b8ac03430b2.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/67b8ac03430b2.jpg",
+        "description": "Claim your free World of Warships: Command the Seas with Mutsu! (DLC) via Steam and unlock the 7-day rental of Tier VI Premium battleship Mutsu plus more!",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this DLC pack directly via Steam before expires.\r\n3. Please note the base game World of Warships (free-to-play) is required to enjoy this DLC content.",
+        "open_giveaway_url": "https://www.gamerpower.com/open/world-of-warships-command-the-seas-with-mutsu-steam-giveaway",
+        "published_date": "2025-02-21 11:38:27",
+        "type": "DLC",
+        "platforms": "PC, Steam",
+        "end_date": "2025-02-27 23:59:00",
+        "users": 320,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/world-of-warships-command-the-seas-with-mutsu-steam-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-command-the-seas-with-mutsu-steam-giveaway"
+    },
+    {
         "id": 3091,
         "title": "World of Tanks: White Hot Pack (Steam) Giveaway",
         "worth": "N/A",
@@ -12,28 +48,10 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2025-02-27 23:59:00",
-        "users": 140,
+        "users": 670,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-tanks-white-hot-pack-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-tanks-white-hot-pack-steam-giveaway"
-    },
-    {
-        "id": 3090,
-        "title": "Killing Floor 3 (Steam) Beta Key Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/67b79ad43665c.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/67b79ad43665c.jpg",
-        "description": "Claim your free Killing Floor 3 Steam Closed Beta Key Giveaway and join the closed beta event from February 20 to February 24.",
-        "instructions": "1. Login into your free Alienware account and click the button to unlock your key.\r\n2. Launch the Steam client and click the Games menu option.\r\n3. Choose \"activate a Product on Steam\" to redeem your Steam key.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/killing-floor-3-steam-beta-key-giveaway",
-        "published_date": "2025-02-20 16:12:52",
-        "type": "Early Access",
-        "platforms": "PC, Steam",
-        "end_date": "2025-02-24 23:59:00",
-        "users": 470,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/killing-floor-3-steam-beta-key-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/killing-floor-3-steam-beta-key-giveaway"
     },
     {
         "id": 3086,
@@ -48,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 870,
+        "users": 950,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/3on3-freestyle-beginner-s-starter-kit-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/3on3-freestyle-beginner-s-starter-kit-steam-giveaway"
@@ -66,7 +84,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam",
         "end_date": "2025-02-26 23:59:00",
-        "users": 3130,
+        "users": 3150,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/nested-lands-alpha-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/nested-lands-alpha-steam-key-giveaway"
@@ -84,7 +102,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "2025-02-27 23:59:00",
-        "users": 12690,
+        "users": 13210,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/stellar-mess-the-princess-conundrum-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/stellar-mess-the-princess-conundrum-steam-giveaway"
@@ -102,7 +120,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2025-02-25 23:59:00",
-        "users": 1970,
+        "users": 2010,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/royal-quest-online-hero-power-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/royal-quest-online-hero-power-steam-giveaway"
@@ -120,7 +138,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 128390,
+        "users": 128800,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/what-the-fog-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/what-the-fog-steam-key-giveaway"
@@ -138,7 +156,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 9990,
+        "users": 10020,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/everspace-2-decal-dlc-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/everspace-2-decal-dlc-steam-key-giveaway"
@@ -174,7 +192,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 9370,
+        "users": 9410,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/exoprimal-alienware-decal-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/exoprimal-alienware-decal-steam-key-giveaway"
@@ -192,7 +210,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 9170,
+        "users": 9190,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/age-of-wonders-4-special-godir-helmet-steam-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/age-of-wonders-4-special-godir-helmet-steam-key-giveaway"
@@ -210,7 +228,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2023-02-22 23:59:00",
-        "users": 10680,
+        "users": 10720,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-tanks-free-supplies-pack-steam",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-tanks-free-supplies-pack-steam"
@@ -228,7 +246,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 10090,
+        "users": 10100,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warplanes-curtiss-xp-31-pack-steam",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warplanes-curtiss-xp-31-pack-steam"
@@ -246,7 +264,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 11860,
+        "users": 11870,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/thunder-league-online-free-points-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/thunder-league-online-free-points-key-giveaway"
@@ -264,7 +282,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 21150,
+        "users": 21200,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-be-true-emblem-code",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-be-true-emblem-code"
@@ -300,7 +318,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 17580,
+        "users": 17620,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/two-point-hospital-sega-60th-items-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/two-point-hospital-sega-60th-items-dlc"
@@ -336,7 +354,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 148700,
+        "users": 148830,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/payday-2-free-in-game-items-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/payday-2-free-in-game-items-giveaway"
@@ -354,7 +372,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 10260,
+        "users": 10280,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/domo-summer-fun-dlc-steam-keys",
         "open_giveaway": "https://www.gamerpower.com/open/domo-summer-fun-dlc-steam-keys"
