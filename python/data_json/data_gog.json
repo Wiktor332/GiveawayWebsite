@@ -1,4 +1,20 @@
-{
-    "status": 0,
-    "status_message": "No active giveaways available at the moment, please try again later."
-}
+[
+    {
+        "id": 3188,
+        "title": "Warhammer 40,000: Gladius - Relics of War (GOG) Giveaway",
+        "worth": "$39.99",
+        "thumbnail": "https://www.gamerpower.com/offers/1/684835e4aa42f.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/684835e4aa42f.jpg",
+        "description": "Download Warhammer 40,000: Gladius - Relics of War for free on GOG! Warhammer 40,000: Gladius - Relics of War is the first turn-based 4X strategy game set in the Warhammer 40,000 universe. Check it out!",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n3. Scroll down until you find the game banner.\r\n4. Click the \"Get it Free\" button and login into your GOG account to unlock the game.",
+        "open_giveaway_url": "https://www.gamerpower.com/open/warhammer-40-000-gladius-relics-of-war-gog-giveaway",
+        "published_date": "2025-06-10 09:40:52",
+        "type": "Game",
+        "platforms": "PC, GOG, DRM-Free",
+        "end_date": "2025-06-18 23:59:00",
+        "users": 4830,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/warhammer-40-000-gladius-relics-of-war-gog-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/warhammer-40-000-gladius-relics-of-war-gog-giveaway"
+    }
+]
