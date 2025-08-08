@@ -12,7 +12,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 32250,
+        "users": 32480,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/warframe-gift-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/warframe-gift-pack-key-giveaway"
@@ -30,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 39250,
+        "users": 39530,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-elder-scrolls-online-experience-scroll-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-elder-scrolls-online-experience-scroll-key-giveaway"
@@ -48,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 36690,
+        "users": 36910,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway"
@@ -66,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 42880,
+        "users": 43110,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-emblem-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-emblem-key-giveaway"
@@ -84,7 +84,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Android, iOS",
         "end_date": "N/A",
-        "users": 82300,
+        "users": 82500,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/genshin-impact-free-primogems-codes",
         "open_giveaway": "https://www.gamerpower.com/open/genshin-impact-free-primogems-codes"
@@ -102,7 +102,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 42820,
+        "users": 43000,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-peace-builders-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-peace-builders-dlc"
@@ -120,7 +120,7 @@
         "type": "DLC",
         "platforms": "PC, Epic Games Store, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 41580,
+        "users": 41830,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dying-light-2-wyvern-paraglider-skin",
         "open_giveaway": "https://www.gamerpower.com/open/dying-light-2-wyvern-paraglider-skin"
@@ -138,7 +138,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 50740,
+        "users": 51020,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-be-true-emblem-code",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-be-true-emblem-code"
@@ -156,7 +156,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 43230,
+        "users": 43500,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-seaside-story-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-seaside-story-dlc"
@@ -174,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Nintendo Switch, Xbox 360, Android, iOS",
         "end_date": "N/A",
-        "users": 38320,
+        "users": 38530,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-vibrant-adventurers-volume-1-2-and-3",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-vibrant-adventurers-volume-1-2-and-3"
@@ -192,7 +192,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 77140,
+        "users": 77420,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-rocket-league-codes",
         "open_giveaway": "https://www.gamerpower.com/open/free-rocket-league-codes"
@@ -210,9 +210,27 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 54060,
+        "users": 54350,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-free-emblem-codes",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-free-emblem-codes"
+    },
+    {
+        "id": 3157,
+        "title": "Free Bethesda In-Game Bundle",
+        "worth": "N/A",
+        "thumbnail": "https://www.gamerpower.com/offers/1/bethesda.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/bethesda.jpg",
+        "description": "Claim your free Bethesda In-Game Bundle and unlock in-game items for Fallout 76, DOOM: The Dark Ages and DOOM Eternal.",
+        "instructions": "1. Log in to your Bethesda account and opt in to email communications\r\n2. Selected the \"CLAIM NOW\" button\r\n3. Click on the profile icon in the top right corner of the screen\r\n4. Choose \u201cTransaction History\u201d from the drop-down menu, and view the Product Codes tab.",
+        "open_giveaway_url": "https://www.gamerpower.com/open/free-bethesda-bundle",
+        "published_date": "2025-08-08 05:17:52",
+        "type": "DLC",
+        "platforms": "PC, Playstation 5, Xbox Series X|S",
+        "end_date": "2025-08-27 23:59:59",
+        "users": 12620,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/free-bethesda-bundle",
+        "open_giveaway": "https://www.gamerpower.com/open/free-bethesda-bundle"
     }
 ]
