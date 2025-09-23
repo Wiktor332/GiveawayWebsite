@@ -1,5 +1,23 @@
 [
     {
+        "id": 3293,
+        "title": "DungeonLoot: Open Beta Has Arrived!",
+        "worth": "N/A",
+        "thumbnail": "https://www.gamerpower.com/offers/1/68d2ea0b968f7.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/68d2ea0b968f7.jpg",
+        "description": "The GamerPower team is on a quest to bring more loot to gamers, so we created DungeonLoot. The idea is something like Amazon Prime Gaming, but completely free. No subscriptions or costs, just a place where you can claim gaming loot anytime. Our goal? To make DungeonLoot the ultimate place for gaming giveaways.",
+        "instructions": "1. Click the button to visit the website.\r\n2. Simply create an account. \r\n3. Select your favorite giveaway and grab the loot. It's that easy!",
+        "open_giveaway_url": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived",
+        "published_date": "2025-09-23 14:42:19",
+        "type": "Game",
+        "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch, Android, iOS",
+        "end_date": "N/A",
+        "users": 2020,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/dungeonloot-open-beta-has-arrived",
+        "open_giveaway": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived"
+    },
+    {
         "id": 3292,
         "title": "Sonic Racing: CrossWorlds - Blue Star Extreme Gear (DLC) Giveaway",
         "worth": "$1.99",
@@ -12,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch",
         "end_date": "2025-10-31 23:59:00",
-        "users": 670,
+        "users": 1520,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/sonic-racing-crossworlds-blue-star-extreme-gear-dlc-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/sonic-racing-crossworlds-blue-star-extreme-gear-dlc-giveaway"
@@ -30,7 +48,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch",
         "end_date": "2025-09-30 23:59:00",
-        "users": 2100,
+        "users": 2400,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/faaast-penguin-1st-anniversary-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/faaast-penguin-1st-anniversary-giveaway"
@@ -48,7 +66,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2025-09-25 23:59:00",
-        "users": 8760,
+        "users": 9320,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/project-winter-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/project-winter-epic-games-giveaway"
@@ -66,7 +84,7 @@
         "type": "Game",
         "platforms": "PC, Android, iOS, Epic Games Store",
         "end_date": "2025-09-25 23:59:00",
-        "users": 6230,
+        "users": 6760,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/samorost-2-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/samorost-2-epic-games-giveaway"
