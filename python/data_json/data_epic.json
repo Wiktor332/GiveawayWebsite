@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Android, iOS, Epic Games Store",
         "end_date": "2025-10-02 23:59:00",
-        "users": 11060,
+        "users": 12070,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/eastern-exorcist-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/eastern-exorcist-epic-games-giveaway"
@@ -30,7 +30,7 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2025-10-02 23:59:00",
-        "users": 8100,
+        "users": 8840,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/jorel-s-brother-and-the-most-important-game-of-the-galaxy-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/jorel-s-brother-and-the-most-important-game-of-the-galaxy-epic-games-giveaway"
@@ -48,7 +48,7 @@
         "type": "Game",
         "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 11410,
+        "users": 12350,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dungeonloot-open-beta-has-arrived",
         "open_giveaway": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived"
@@ -66,27 +66,9 @@
         "type": "DLC",
         "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch",
         "end_date": "2025-10-31 23:59:00",
-        "users": 4600,
+        "users": 5130,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/sonic-racing-crossworlds-blue-star-extreme-gear-dlc-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/sonic-racing-crossworlds-blue-star-extreme-gear-dlc-giveaway"
-    },
-    {
-        "id": 3288,
-        "title": "Faaast Penguin: 1st Anniversary Giveaway",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/68cea523d6d49.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/68cea523d6d49.jpg",
-        "description": "Earn exclusive items and crystals by logging in to Faaast Penguin! Use the code CAX7T3L6 to redeem even more exclusive rewards.",
-        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in five days total to get all items.\r\n3. And redeem this Item code: CAX7T3L6",
-        "open_giveaway_url": "https://www.gamerpower.com/open/faaast-penguin-1st-anniversary-giveaway",
-        "published_date": "2025-09-20 08:59:15",
-        "type": "DLC",
-        "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch",
-        "end_date": "2025-09-30 23:59:00",
-        "users": 4960,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/faaast-penguin-1st-anniversary-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/faaast-penguin-1st-anniversary-giveaway"
     }
 ]
