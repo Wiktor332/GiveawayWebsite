@@ -1,20 +1,4 @@
-[
-    {
-        "id": 1833,
-        "title": "STASIS (GOG) Giveaway",
-        "worth": "$9.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/63039de628df0.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/63039de628df0.jpg",
-        "description": "Happy Halloween! Grab STASIS for free via GOG! STASIS is an isometric, point-and-click, sci-fi adventure game with challenging and realistic puzzles.",
-        "instructions": "1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/stasis",
-        "published_date": "2025-10-31 15:59:54",
-        "type": "Game",
-        "platforms": "PC, GOG, DRM-Free",
-        "end_date": "2025-11-02 23:59:00",
-        "users": 16620,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/stasis",
-        "open_giveaway": "https://www.gamerpower.com/open/stasis"
-    }
-]
+{
+    "status": 0,
+    "status_message": "No active giveaways available at the moment, please try again later."
+}
