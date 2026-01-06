@@ -12,7 +12,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 106590,
+        "users": 106620,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dungeonloot-open-beta-has-arrived",
         "open_giveaway": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived"
@@ -30,7 +30,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 86620,
+        "users": 86810,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-elder-scrolls-online-experience-scroll-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-elder-scrolls-online-experience-scroll-key-giveaway"
@@ -48,28 +48,10 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 81790,
+        "users": 82050,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/the-elder-scrolls-online-pyromancer-s-quandary-emote-key-giveaway"
-    },
-    {
-        "id": 1432,
-        "title": "Dying Light 2: Wyvern Paraglider Skin",
-        "worth": "N/A",
-        "thumbnail": "https://www.gamerpower.com/offers/1/623cbd853b1cb.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/623cbd853b1cb.jpg",
-        "description": "Claim your free Dying Light 2: Wyvern Paraglider Skin! Please note the base game Dying Light 2 is required to enjoy this content.",
-        "instructions": "1. Scroll down and click the claim button\r\n2. Login or register your free TechlandGG account.",
-        "open_giveaway_url": "https://www.gamerpower.com/open/dying-light-2-wyvern-paraglider-skin",
-        "published_date": "2022-03-24 19:50:45",
-        "type": "DLC",
-        "platforms": "PC, Epic Games Store, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
-        "end_date": "N/A",
-        "users": 88610,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/dying-light-2-wyvern-paraglider-skin",
-        "open_giveaway": "https://www.gamerpower.com/open/dying-light-2-wyvern-paraglider-skin"
     },
     {
         "id": 1231,
@@ -84,7 +66,7 @@
         "type": "DLC",
         "platforms": "PC, Steam, Playstation 5, Xbox Series X|S, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 99300,
+        "users": 99580,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-be-true-emblem-code",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-be-true-emblem-code"
@@ -102,7 +84,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox One",
         "end_date": "N/A",
-        "users": 14830,
+        "users": 15300,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/tomb-raider-legacy-of-atlantis-lara-croft-wetsuit-skin-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/tomb-raider-legacy-of-atlantis-lara-croft-wetsuit-skin-giveaway"
@@ -120,7 +102,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 92050,
+        "users": 92240,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-emblem-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-emblem-key-giveaway"
@@ -138,7 +120,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 91080,
+        "users": 91370,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-peace-builders-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-peace-builders-dlc"
@@ -156,7 +138,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 88290,
+        "users": 88480,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-seaside-story-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-seaside-story-dlc"
@@ -174,7 +156,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 126010,
+        "users": 126250,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-rocket-league-codes",
         "open_giveaway": "https://www.gamerpower.com/open/free-rocket-league-codes"
@@ -192,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One",
         "end_date": "N/A",
-        "users": 104250,
+        "users": 104500,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/destiny-2-free-emblem-codes",
         "open_giveaway": "https://www.gamerpower.com/open/destiny-2-free-emblem-codes"
