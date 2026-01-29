@@ -1,5 +1,59 @@
 [
     {
+        "id": 3475,
+        "title": "Untrusted 10K Credits Key Giveaway",
+        "worth": "N/A",
+        "thumbnail": "https://www.gamerpower.com/offers/1/697b961f06e74.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/697b961f06e74.jpg",
+        "description": "Claim this key to receive 10,000 in-game Credits for Untrusted, absolutely free! Plus, the game is currently free to keep, but only if you act fast!",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your free DungeonLoot account and click the button to unlock your key.\r\n3. Follow the giveaway instructions to redeem your key.",
+        "open_giveaway_url": "https://www.gamerpower.com/open/untrusted-10k-credits-key-giveaway",
+        "published_date": "2026-01-29 12:17:19",
+        "type": "DLC",
+        "platforms": "PC",
+        "end_date": "N/A",
+        "users": 710,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/untrusted-10k-credits-key-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/untrusted-10k-credits-key-giveaway"
+    },
+    {
+        "id": 3474,
+        "title": "Untrusted (Steam) Giveaway",
+        "worth": "$4.99",
+        "thumbnail": "https://www.gamerpower.com/offers/1/697b92ce9f8a2.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/697b92ce9f8a2.jpg",
+        "description": "Grab Untrusted for free on Steam! Untrusted is an online multiplayer social deduction game where you take on the role of a hacker. Don\u00b4t miss it!",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That\u00b4s it! Have fun!",
+        "open_giveaway_url": "https://www.gamerpower.com/open/untrusted-steam-giveaway",
+        "published_date": "2026-01-29 12:03:10",
+        "type": "Game",
+        "platforms": "PC, Steam",
+        "end_date": "2026-02-01 23:59:00",
+        "users": 5620,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/untrusted-steam-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/untrusted-steam-giveaway"
+    },
+    {
+        "id": 3472,
+        "title": "Definitely Not Fried Chicken (Epic Games) Giveaway",
+        "worth": "$24.99",
+        "thumbnail": "https://www.gamerpower.com/offers/1/697b840200773.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/697b840200773.jpg",
+        "description": "Definitely Not Fried Chicken is free on the Epic Games Store this week! It\u2019s a fun 3d business management sim with a wild twist.",
+        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
+        "open_giveaway_url": "https://www.gamerpower.com/open/definitely-not-fried-chicken-epic-games-giveaway",
+        "published_date": "2026-01-29 11:00:02",
+        "type": "Game",
+        "platforms": "PC, Epic Games Store",
+        "end_date": "2026-02-05 23:59:00",
+        "users": 4870,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/definitely-not-fried-chicken-epic-games-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/definitely-not-fried-chicken-epic-games-giveaway"
+    },
+    {
         "id": 3471,
         "title": "Hero Wars: Orion Gift Code Giveaway",
         "worth": "N/A",
@@ -12,28 +66,10 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "2026-06-30 23:59:00",
-        "users": 430,
+        "users": 830,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/hero-wars-orion-gift-code-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/hero-wars-orion-gift-code-giveaway"
-    },
-    {
-        "id": 3470,
-        "title": "Along the Edge (Steam) Giveaway",
-        "worth": "$13.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/69790068a5423.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/69790068a5423.jpg",
-        "description": "Looking for a new visual novel to try? Along the Edge is free on Steam until Jan 29. It features over 450 full-screen illustrations and an original soundtrack, perfect if you\u2019re into story-driven games.",
-        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That\u00b4s it! Have fun!",
-        "open_giveaway_url": "https://www.gamerpower.com/open/along-the-edge-steam-giveaway",
-        "published_date": "2026-01-27 13:14:00",
-        "type": "Game",
-        "platforms": "PC, Steam",
-        "end_date": "2026-01-29 23:59:00",
-        "users": 8210,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/along-the-edge-steam-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/along-the-edge-steam-giveaway"
     },
     {
         "id": 3469,
@@ -48,7 +84,7 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "2026-02-01 23:59:00",
-        "users": 9660,
+        "users": 11520,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/cursedland-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/cursedland-steam-giveaway"
@@ -66,28 +102,10 @@
         "type": "Game",
         "platforms": "PC, Steam",
         "end_date": "2026-01-31 23:59:00",
-        "users": 16820,
+        "users": 18680,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/kiki-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/kiki-steam-giveaway"
-    },
-    {
-        "id": 3463,
-        "title": "Rustler (Epic Games) Giveaway",
-        "worth": "$24.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/697249629ad2a.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/697249629ad2a.jpg",
-        "description": "Looking for GTA 6? Same here! While we wait, grab Rustler (Grand Theft Horse) for free on the Epic Games Store. It\u2019s not GTA 6... but it plays like old-school GTA, with one small difference... you steal horses instead of cars.",
-        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library",
-        "open_giveaway_url": "https://www.gamerpower.com/open/rustler-epic-games-giveaway",
-        "published_date": "2026-01-22 10:59:30",
-        "type": "Game",
-        "platforms": "PC, Epic Games Store",
-        "end_date": "2026-01-29 23:59:00",
-        "users": 20290,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/rustler-epic-games-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/rustler-epic-games-giveaway"
     },
     {
         "id": 3452,
@@ -102,7 +120,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 9810,
+        "users": 9830,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/neverwinter-red-harvest-part-2-gift-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/neverwinter-red-harvest-part-2-gift-pack-key-giveaway"
@@ -120,7 +138,7 @@
         "type": "Game",
         "platforms": "PC, DRM-Free",
         "end_date": "N/A",
-        "users": 14680,
+        "users": 14730,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/roboball-pc-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/roboball-pc-giveaway"
@@ -138,7 +156,7 @@
         "type": "Game",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 15870,
+        "users": 15960,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/gigabash-pc-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/gigabash-pc-giveaway"
@@ -156,7 +174,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 5, Xbox One",
         "end_date": "N/A",
-        "users": 24570,
+        "users": 24660,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/tomb-raider-legacy-of-atlantis-lara-croft-wetsuit-skin-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/tomb-raider-legacy-of-atlantis-lara-croft-wetsuit-skin-giveaway"
@@ -174,7 +192,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "2026-12-09 23:59:00",
-        "users": 15130,
+        "users": 15150,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/bethesda-bundle-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/bethesda-bundle-giveaway"
@@ -192,7 +210,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2026-09-25 23:59:00",
-        "users": 20210,
+        "users": 20220,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dk-online-season-4-first-steps-pack-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dk-online-season-4-first-steps-pack-steam-giveaway"
@@ -228,7 +246,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 33850,
+        "users": 33860,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/vampire-master-gift-pack-codes-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/vampire-master-gift-pack-codes-giveaway"
@@ -246,7 +264,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "2026-05-31 13:58:56",
-        "users": 36590,
+        "users": 36600,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/hero-wars-free-gift-codes",
         "open_giveaway": "https://www.gamerpower.com/open/hero-wars-free-gift-codes"
@@ -318,7 +336,7 @@
         "type": "DLC",
         "platforms": "PC, Android, iOS",
         "end_date": "2026-05-01 18:47:06",
-        "users": 46430,
+        "users": 46450,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/doomsday-last-survivors-gift-keys",
         "open_giveaway": "https://www.gamerpower.com/open/doomsday-last-survivors-gift-keys"
@@ -336,7 +354,7 @@
         "type": "Early Access",
         "platforms": "PC, Steam, Epic Games Store, Playstation 5, Xbox Series X|S, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 107370,
+        "users": 107380,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dungeonloot-open-beta-has-arrived",
         "open_giveaway": "https://www.gamerpower.com/open/dungeonloot-open-beta-has-arrived"
@@ -372,7 +390,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "2026-01-31 17:16:35",
-        "users": 69230,
+        "users": 69240,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/world-of-warships-free-15-package",
         "open_giveaway": "https://www.gamerpower.com/open/world-of-warships-free-15-package"
@@ -390,7 +408,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "2026-12-31 23:59:00",
-        "users": 84950,
+        "users": 84960,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dave-the-diver-godzilla-content-pack-steam-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dave-the-diver-godzilla-content-pack-steam-giveaway"
@@ -714,7 +732,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 86970,
+        "users": 86980,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/neverwinter-frayed-silken-cloak-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/neverwinter-frayed-silken-cloak-key-giveaway"
@@ -822,7 +840,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 142580,
+        "users": 142590,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dual-chroma-academy-carols-itch-io-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway"
@@ -840,7 +858,7 @@
         "type": "DLC",
         "platforms": "PC, Playstation 4, Xbox One, Nintendo Switch, Android, iOS",
         "end_date": "N/A",
-        "users": 96780,
+        "users": 96790,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/minecraft-peace-builders-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/minecraft-peace-builders-dlc"
@@ -858,7 +876,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 89770,
+        "users": 89780,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/untrusted-starter-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/untrusted-starter-pack-key-giveaway"
@@ -876,7 +894,7 @@
         "type": "Game",
         "platforms": "PC, Itch.io, DRM-Free",
         "end_date": "N/A",
-        "users": 151610,
+        "users": 151630,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/dora-diginoid-metroidvania-sci-fi-adventure-game",
         "open_giveaway": "https://www.gamerpower.com/open/dora-diginoid-metroidvania-sci-fi-adventure-game"
@@ -930,7 +948,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 88310,
+        "users": 88320,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/doomtrooper-ccg-card-pack-key-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/doomtrooper-ccg-card-pack-key-giveaway"
@@ -1074,7 +1092,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 92460,
+        "users": 92470,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/magic-the-gathering-arena-5-card-sleeves",
         "open_giveaway": "https://www.gamerpower.com/open/magic-the-gathering-arena-5-card-sleeves"
@@ -1092,7 +1110,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 95390,
+        "users": 95410,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/free-mtg-arena-codes",
         "open_giveaway": "https://www.gamerpower.com/open/free-mtg-arena-codes"
@@ -1218,7 +1236,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 251420,
+        "users": 251470,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/payday-2-free-in-game-items-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/payday-2-free-in-game-items-giveaway"
@@ -1254,7 +1272,7 @@
         "type": "DLC",
         "platforms": "PC, Steam",
         "end_date": "N/A",
-        "users": 92130,
+        "users": 92140,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/domo-summer-fun-dlc-steam-keys",
         "open_giveaway": "https://www.gamerpower.com/open/domo-summer-fun-dlc-steam-keys"
@@ -1344,7 +1362,7 @@
         "type": "DLC",
         "platforms": "PC",
         "end_date": "N/A",
-        "users": 122910,
+        "users": 122920,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/farming-simulator-2017-free-horsch-agrovation-dlc",
         "open_giveaway": "https://www.gamerpower.com/open/farming-simulator-2017-free-horsch-agrovation-dlc"
