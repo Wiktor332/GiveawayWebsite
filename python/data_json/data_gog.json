@@ -1,4 +1,20 @@
-{
-    "status": 0,
-    "status_message": "No active giveaways available at the moment, please try again later."
-}
+[
+    {
+        "id": 3480,
+        "title": "Alone in the Dark: The Trilogy (GOG) Giveaway",
+        "worth": "$11.37",
+        "thumbnail": "https://www.gamerpower.com/offers/1/6980bd19e39cb.jpg",
+        "image": "https://www.gamerpower.com/offers/1b/6980bd19e39cb.jpg",
+        "description": "Add Alone in the Dark: The Trilogy 1+2+3 to your GOG library for free! Don\u00b4t miss these amazing classic adventure games.",
+        "instructions": "1. Click the \"Go to giveaway\" green button, and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and log in to your GOG account to unlock the game.",
+        "open_giveaway_url": "https://www.gamerpower.com/open/alone-in-the-dark-the-trilogy-gog-giveaway",
+        "published_date": "2026-02-02 10:04:57",
+        "type": "Game",
+        "platforms": "PC, GOG, DRM-Free",
+        "end_date": "2026-02-05 23:59:00",
+        "users": 8930,
+        "status": "Active",
+        "gamerpower_url": "https://www.gamerpower.com/alone-in-the-dark-the-trilogy-gog-giveaway",
+        "open_giveaway": "https://www.gamerpower.com/open/alone-in-the-dark-the-trilogy-gog-giveaway"
+    }
+]
