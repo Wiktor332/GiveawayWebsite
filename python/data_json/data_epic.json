@@ -12,7 +12,7 @@
         "type": "Game",
         "platforms": "PC, Android, iOS, Epic Games Store",
         "end_date": "2026-03-05 23:59:00",
-        "users": 7480,
+        "users": 7670,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/boxes-lost-fragments-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/boxes-lost-fragments-epic-games-giveaway"
@@ -30,28 +30,10 @@
         "type": "Game",
         "platforms": "PC, Epic Games Store",
         "end_date": "2026-03-05 23:59:00",
-        "users": 6650,
+        "users": 6750,
         "status": "Active",
         "gamerpower_url": "https://www.gamerpower.com/my-night-job-epic-games-giveaway",
         "open_giveaway": "https://www.gamerpower.com/open/my-night-job-epic-games-giveaway"
-    },
-    {
-        "id": 3478,
-        "title": "NightReaper2 (Epic Games) Giveaway",
-        "worth": "$3.99",
-        "thumbnail": "https://www.gamerpower.com/offers/1/697e175034471.jpg",
-        "image": "https://www.gamerpower.com/offers/1b/697e175034471.jpg",
-        "description": "Score NightReaper2 for free via Epic Games Store! NightReaper2 is a stylized action game. Check it out!",
-        "instructions": "1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library",
-        "open_giveaway_url": "https://www.gamerpower.com/open/nightreaper2-epic-games-giveaway",
-        "published_date": "2026-01-31 09:53:04",
-        "type": "Game",
-        "platforms": "PC, Epic Games Store",
-        "end_date": "2026-02-28 23:59:00",
-        "users": 45060,
-        "status": "Active",
-        "gamerpower_url": "https://www.gamerpower.com/nightreaper2-epic-games-giveaway",
-        "open_giveaway": "https://www.gamerpower.com/open/nightreaper2-epic-games-giveaway"
     },
     {
         "id": 3373,
